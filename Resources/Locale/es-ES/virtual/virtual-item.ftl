@@ -1,0 +1,1 @@
+virtual-item-dropped-other = ¡Dejaste caer { THE($dropped) }!

@@ -1,0 +1,45 @@
+## Survivor
+
+roles-antag-survivor-name = Superviviente
+# It's a Halo reference
+roles-antag-survivor-objective = Objetivo actual: Sobrevivir
+survivor-role-greeting =
+    Eres un Superviviente.
+    Ante todo, debes regresar con vida al Mando Central.
+    Reúne todo el armamento que necesites para garantizar tu supervivencia.
+    No confíes en nadie.
+survivor-round-end-dead-count =
+    { $deadCount ->
+        [one] [color=red]{ $deadCount }[/color] superviviente murió.
+        [few] [color=red]{ $deadCount }[/color] supervivientes murieron.
+       *[other] [color=red]{ $deadCount }[/color] supervivientes murieron.
+    }
+survivor-round-end-alive-count =
+    { $aliveCount ->
+        [one] [color=yellow]{ $aliveCount }[/color] superviviente permaneció en la instalación.
+        [few] [color=yellow]{ $aliveCount }[/color] supervivientes permanecieron en la instalación.
+       *[other] [color=yellow]{ $aliveCount }[/color] supervivientes permanecieron en la instalación.
+    }
+survivor-round-end-alive-on-shuttle-count =
+    { $aliveCount ->
+        [one] [color=green]{ $aliveCount }[/color] superviviente logró escapar.
+        [few] [color=green]{ $aliveCount }[/color] supervivientes lograron escapar.
+       *[other] [color=green]{ $aliveCount }[/color] supervivientes lograron escapar.
+    }
+
+## Wizard
+
+objective-issuer-swf = [color=turquoise]Federación de Magos Espaciales[/color]
+wizard-title = Mago
+wizard-description = ¡Hay un mago en la instalación! Nadie sabe de qué es capaz.
+roles-antag-wizard-name = Mago
+roles-antag-wizard-objective = Dales una lección que nunca olvidarán.
+wizard-role-greeting =
+    ¡ERES UN MAGO!
+    Han surgido tensiones entre la Federación de Magos Espaciales y NanoTrasen.
+    La Federación te ha elegido para visitar la instalación.
+    Muéstrales tus habilidades.
+    Tú decides qué hacer, pero recuerda que la Federación quiere que sigas con vida.
+wizard-round-end-name = Mago
+
+## TODO: Wizard Apprentice (Coming sometime post-wizard release)

@@ -1,0 +1,6 @@
+cmd-nodevis-desc = Alterna la visualización de los grupos de nodos.
+cmd-nodevis-help = Uso: nodevis
+
+cmd-nodevisfilter-desc = Alterna la visualización de un grupo específico en nodevis.
+cmd-nodevisfilter-help = Uso: nodevisfilter [filtro]
+                         Omite el filtro para enumerar los grupos ocultos actualmente

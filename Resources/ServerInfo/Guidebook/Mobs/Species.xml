@@ -1,22 +1,22 @@
 <Document>
-  # Species
+  # Especies
 
-  Nanotrasen employs a variety of sapient species.
+  Nanotrasen emplea a diversas especies inteligentes.
 
   <Box>
-  <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Arachnid"/>
-  <GuideEntityEmbed Entity="AppearanceDiona" Caption="Diona"/>
-  <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Dwarf"/>
-  <GuideEntityEmbed Entity="AppearanceHuman" Caption="Human"/>
+  <GuideEntityEmbed Entity="MobArachnid" Caption="Arácnido"/>
+  <GuideEntityEmbed Entity="MobDiona" Caption="Diona"/>
+  <GuideEntityEmbed Entity="MobDwarf" Caption="Enano"/>
+  <GuideEntityEmbed Entity="MobHuman" Caption="Humano"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="AppearanceMoth" Caption="Moth Person"/>
-  <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Reptilian"/>
-  <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Slime Person"/>
-  <GuideEntityEmbed Entity="AppearanceVox" Caption="Vox"/>
+  <GuideEntityEmbed Entity="MobMoth" Caption="Persona polilla"/>
+  <GuideEntityEmbed Entity="MobReptilian" Caption="Reptiliano"/>
+  <GuideEntityEmbed Entity="MobSlimePerson" Caption="Persona de slime"/>
+  <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="AppearanceVulpkanin" Caption="Vulpkanin"/>
+    <GuideEntityEmbed Entity="MobVulpkanin" Caption="Vulpkanin"/>
   </Box>
 
 </Document>
