@@ -1,11 +1,11 @@
-﻿cmd-togglechat-desc = Toggles the specified chat on/off for the server.
-cmd-togglechat-help = Usage: togglechat [chat name] OR togglechat [chat name] [value]
+cmd-togglechat-desc = Activa o desactiva el chat especificado en el servidor.
+cmd-togglechat-help = Uso: togglechat [nombre del chat] O togglechat [nombre del chat] [valor]
 
-cmd-setdeadchat-looc-enabled = Dead chat has been enabled.
-cmd-setdeadchat-looc-disabled = Dead chat has been disabled.
+cmd-setdeadchat-looc-enabled = El chat de muertos fue activado.
+cmd-setdeadchat-looc-disabled = El chat de muertos fue desactivado.
 
-cmd-setlooc-looc-enabled = LOOC chat has been enabled.
-cmd-setlooc-looc-disabled = LOOC chat has been disabled.
+cmd-setlooc-looc-enabled = El chat LOOC fue activado.
+cmd-setlooc-looc-disabled = El chat LOOC fue desactivado.
 
-cmd-setooc-ooc-enabled = OOC chat has been enabled.
-cmd-setooc-ooc-disabled = OOC chat has been disabled.
+cmd-setooc-ooc-enabled = El chat OOC fue activado.
+cmd-setooc-ooc-disabled = El chat OOC fue desactivado.
