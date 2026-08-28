@@ -1,2 +1,2 @@
-construction-step-condition-no-unstackable-in-tile = No puedes apilar varios dispositivos.
-pipe-restrict-overlap-popup-blocked = { CAPITALIZE($pipe) } no cabe encima de otras tuberías!
+construction-step-condition-no-unstackable-in-tile = No puedes apilar dispositivos similares.
+pipe-restrict-overlap-popup-blocked = ¡{ CAPITALIZE(THE($pipe)) } no cabe sobre las otras tuberías!

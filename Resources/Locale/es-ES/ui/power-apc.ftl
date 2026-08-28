@@ -1,14 +1,14 @@
 apc-menu-title = APC
-apc-menu-breaker-label = Conmutador principal
-apc-menu-breaker-button = Cambio
+apc-menu-breaker-label = Interruptor principal
+apc-menu-breaker-button = Alternar
 apc-menu-power-label = Carga
-apc-menu-external-label = Fuente de alimentación externa
-apc-menu-charge-label = Cargado: {$percent}
+apc-menu-external-label = Alimentación externa
+apc-menu-charge-label = Carga: {$percent}
 
 # For the power state label
 
-apc-menu-power-state-good = Bien
-apc-menu-power-state-low = Débil
+apc-menu-power-state-good = Normal
+apc-menu-power-state-low = Baja
 apc-menu-power-state-none = Ausente
 apc-menu-power-state-label-text = { POWERWATTS($power) } / { POWERWATTS($maxLoad) }
 apc-menu-power-state-label-tripped = SOBRECARGA

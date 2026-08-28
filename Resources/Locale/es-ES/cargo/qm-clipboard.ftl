@@ -1,1 +1,1 @@
-qm-clipboard-computer-verb-text = Alternar la lista de solicitudes
+qm-clipboard-computer-verb-text = Mostrar u ocultar solicitudes

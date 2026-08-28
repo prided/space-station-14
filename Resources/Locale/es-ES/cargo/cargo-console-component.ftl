@@ -1,50 +1,51 @@
 ## UI
 
-cargo-console-menu-title = Consola de Pedido de Carga
-cargo-console-menu-account-name-label = Nombre de la cuenta: { " " }
-cargo-console-menu-account-name-none-text = No
+cargo-console-menu-title = Consola de solicitudes de carga
+cargo-console-menu-account-name-label = Cuenta: { " " }
+cargo-console-menu-account-name-none-text = Ninguna
 cargo-console-menu-shuttle-name-label = Nombre del transbordador: { " " }
-cargo-console-menu-shuttle-name-none-text = No
-cargo-console-menu-points-label = Créditos: { " " }
-cargo-console-menu-points-amount = ${ $amount }
+cargo-console-menu-shuttle-name-none-text = Ninguno
+cargo-console-menu-points-label = Creditos: { " " }
+cargo-console-menu-points-amount = ${$amount}
 cargo-console-menu-shuttle-status-label = Estado del transbordador: { " " }
-cargo-console-menu-shuttle-status-away-text = Izquierda
-cargo-console-menu-order-capacity-label = Volumen de pedido: { " " }
-cargo-console-menu-call-shuttle-button = Activar Telepad
-cargo-console-menu-permissions-button = Accesos
+cargo-console-menu-shuttle-status-away-text = Ausente
+cargo-console-menu-order-capacity-label = Capacidad de pedidos: { " " }
+cargo-console-menu-call-shuttle-button = Activar telepad
+cargo-console-menu-permissions-button = Permisos
 cargo-console-menu-categories-label = Categorías: { " " }
-cargo-console-menu-search-bar-placeholder = Búsqueda
-cargo-console-menu-requests-label = Consultas
+cargo-console-menu-search-bar-placeholder = Buscar
+cargo-console-menu-requests-label = Solicitudes
 cargo-console-menu-orders-label = Pedidos
-cargo-console-menu-order-reason-description = Causa: { $reason }
-cargo-console-menu-populate-categories-all-text = Todos
-cargo-console-menu-populate-orders-cargo-order-row-product-name-text = { $productName } (x{ $orderAmount }) de { $orderRequester }
+cargo-console-menu-order-reason-description = Motivo: { $reason }
+cargo-console-menu-populate-categories-all-text = Todas
+cargo-console-menu-populate-orders-cargo-order-row-product-name-text = Solicitado por: { $orderRequester } con cargo a [color={ $accountColor }]{ $account }[/color]
 cargo-console-menu-cargo-order-row-approve-button = Aprobar
 cargo-console-menu-cargo-order-row-cancel-button = Cancelar
 # Orders
 cargo-console-order-not-allowed = Acceso denegado
-cargo-console-station-not-found = No hay complejo accesible
+cargo-console-station-not-found = No hay ninguna estación disponible
 cargo-console-invalid-product = ID de producto inválido
 cargo-console-too-many = Demasiados pedidos aprobados
-cargo-console-snip-snip = Orden reducida a su capacidad
-cargo-console-insufficient-funds = Fondos insuficientes ({ $cost } necesario)
-cargo-console-unfulfilled = No hay lugar para cumplir el pedido
-cargo-console-trade-station = Envía a { $destination }
-cargo-console-unlock-approved-order-broadcast = [bold]An pedido de { $productName } x{ $orderAmount }[/bold] valor [bold]{ $cost }[/bold] fue aprobado [bold]{ $approver }[/bold]
-cargo-console-paper-print-name = Orden #{ $orderNumber }
-cargo-console-paper-print-text =
-    Orden #{ $orderNumber }
-    Producto: { $itemName }
-    Pregunta: { $orderQuantity }
-    Solicitado: { $requester }
-    Causa: { $reason }
-    Aprobado por: { $approver }
+cargo-console-snip-snip = El pedido se redujo a la capacidad disponible
+cargo-console-insufficient-funds = Fondos insuficientes (se requieren { $cost })
+cargo-console-unfulfilled = No hay espacio para completar el pedido
+cargo-console-trade-station = Enviado a { $destination }
+cargo-console-unlock-approved-order-broadcast = [bold]{ $productName } x{ $orderAmount }[/bold], con un costo de [bold]{ $cost }[/bold], fue aprobado por [bold]{ $approver }[/bold]
+cargo-console-paper-print-name = Pedido #{ $orderNumber }
+cargo-console-paper-print-text = [head=2]Pedido #{ $orderNumber }[/head]
+    {"[bold]Artículo:[/bold]"} { $itemName } (x{ $orderQuantity })
+    {"[bold]Solicitado por:[/bold]"} { $requester }
+
+    {"[head=3]Información del pedido[/head]"}
+    {"[bold]Pagador[/bold]:"} { $account } [font="Monospace"]\[{ $accountcode }\][/font]
+    {"[bold]Aprobado por:[/bold]"} { $approver }
+    {"[bold]Motivo:[/bold]"} { $reason }
 # Cargo shuttle console
-cargo-shuttle-console-menu-title = Consola de llamada del transbordador de carga
+cargo-shuttle-console-menu-title = Consola del transbordador de carga
 cargo-shuttle-console-station-unknown = Desconocido
 cargo-shuttle-console-shuttle-not-found = No encontrado
 cargo-no-shuttle = ¡Transbordador de carga no encontrado!
-cargo-shuttle-console-organics = Formas de vida orgánica descubiertas en el transbordador
+cargo-shuttle-console-organics = Se detectaron formas de vida orgánicas en el transbordador
 
 cargo-console-menu-flavor-left = ¡Pide aún más cajas de pizza de lo habitual!
 
@@ -56,13 +57,13 @@ cargo-console-menu-order-capacity-number = {$count}/{$capacity}
 
 cargo-console-menu-order-row-title = {$productName} (x{$orderAmount} por {$orderPrice}$)
 
-cargo-console-menu-order-row-product-description = Razón: {$orderReason}
+cargo-console-menu-order-row-product-description = Motivo: {$orderReason}
 
 cargo-console-menu-order-row-button-approve = Aprobar
 
 cargo-console-menu-order-row-button-cancel = Cancelar
 
-cargo-console-menu-order-row-alerts-reason-absent = La razón no se especifica
+cargo-console-menu-order-row-alerts-reason-absent = No se especificó el motivo
 
 cargo-console-menu-order-row-alerts-requester-unknown = Desconocido
 
@@ -80,7 +81,7 @@ cargo-console-menu-account-action-amount = [bold]Cantidad:[/bold] $
 
 cargo-console-menu-account-action-button = Transferir
 
-cargo-console-menu-toggle-account-lock-button = Alternar límite de transferencia
+cargo-console-menu-toggle-account-lock-button = Activar o desactivar límite de transferencia
 
 cargo-console-menu-account-action-option-withdraw = Retirar efectivo
 
@@ -106,13 +107,13 @@ cargo-funding-alloc-console-label-balance = [bold] Saldo [/bold]
 
 cargo-funding-alloc-console-label-cut = [bold] Distribución de ingresos (%) [/bold]
 
-cargo-funding-alloc-console-label-primary-cut = Parte de los fondos de Carga procedentes de fuentes que no son cajas de seguridad (%):
+cargo-funding-alloc-console-label-primary-cut = Porcentaje que recibe Carga de fuentes distintas de las cajas de seguridad (%):
 
-cargo-funding-alloc-console-label-lockbox-cut = Parte de los fondos de Carga procedentes de ventas de cajas de seguridad (%):
+cargo-funding-alloc-console-label-lockbox-cut = Porcentaje que recibe Carga de las ventas de cajas de seguridad (%):
 
-cargo-funding-alloc-console-label-help-non-adjustible = Carga recibe el {$percent}% de las ganancias por ventas que no son de cajas de seguridad. El resto se divide como se indica a continuación:
+cargo-funding-alloc-console-label-help-non-adjustible = Carga recibe el {$percent}% de las ganancias de ventas ajenas a cajas de seguridad. El resto se divide como se indica a continuación:
 
-cargo-funding-alloc-console-label-help-adjustible = Los fondos restantes de fuentes que no son cajas de seguridad se distribuyen como se indica a continuación:
+cargo-funding-alloc-console-label-help-adjustible = Los fondos restantes de fuentes distintas de las cajas de seguridad se distribuyen como se indica a continuación:
 
 cargo-funding-alloc-console-button-save = Guardar cambios
 

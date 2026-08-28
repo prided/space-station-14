@@ -1,6 +1,6 @@
-ui-button-off = OFF
-ui-button-on = ON
+ui-button-off = Desactivado
+ui-button-on = Activado
 
-toggle-switch-default-off-state-label = OFF
+toggle-switch-default-off-state-label = Desactivado
 
-toggle-switch-default-on-state-label = ON
+toggle-switch-default-on-state-label = Activado

@@ -7,7 +7,7 @@ ui-transfer-amount-title = Cambiar cantidad a transferir
 
 ## Texto del botón para aplicar los cambios
 
-ui-transfer-amount-apply = Aplicar
+ui-transfer-amount-apply = Establecer cantidad
 
 ## Texto de marcador de posición para el campo de cantidad
 

@@ -1,1 +1,1 @@
-stat-values-ui-title = Estadísticas cuerpo a cuerpo
+stat-values-ui-title = Estadísticas de combate cuerpo a cuerpo

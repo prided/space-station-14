@@ -1,1 +1,1 @@
-construction-guide-condition-empty-or-window-valid-in-tile = Tienes que colocar esto en un cuadrado adecuado.
+construction-guide-condition-empty-or-window-valid-in-tile = Debes colocarlo en una casilla válida.
