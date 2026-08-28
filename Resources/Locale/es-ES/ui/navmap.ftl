@@ -1,6 +1,6 @@
-navmap-zoom = Aproximación: { $value }x
-navmap-recenter = Centro
-navmap-toggle-beacons = Departamentos de Exposición
+navmap-zoom = zoom: { $value }x
+navmap-recenter = Centrar
+navmap-toggle-beacons = Mostrar departamentos
 
 navmap-location = Ubicación: [x = {$x}, y = {$y}]
 

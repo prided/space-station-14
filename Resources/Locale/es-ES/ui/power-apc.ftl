@@ -1,4 +1,4 @@
-apc-menu-title = Pintura
+apc-menu-title = APC
 apc-menu-breaker-label = Conmutador principal
 apc-menu-breaker-button = Cambio
 apc-menu-power-label = Carga
