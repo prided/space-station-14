@@ -6,3 +6,5 @@ access-overrider-window-no-target = No hay dispositivos conectados
 access-overrider-window-missing-privileges = El acceso a este dispositivo no puede modificarse. La tarjeta de identificación insertada no tiene los siguientes derechos:
 access-overrider-cannot-modify-access = ¡No tienes derechos suficientes para modificar este dispositivo!
 access-overrider-out-of-range = Dispositivo conectado demasiado lejos
+
+access-overrider-window-missing-privileges-no-id = No se puede modificar el acceso a este dispositivo. Faltan los siguientes privilegios:

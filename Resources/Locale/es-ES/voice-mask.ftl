@@ -6,3 +6,11 @@ voice-mask-name-change-set = Cambiar de nombre
 voice-mask-name-change-set-description = Cambia el nombre que otros oirán cuando hables.
 voice-mask-popup-success = Cambio de nombre con éxito.
 voice-mask-popup-failure = El nombre no puede cambiarse.
+
+voice-mask-name-change-toggle = Alternar máscara de voz
+
+voice-mask-name-change-accent-toggle = acento de bloque
+
+voice-mask-popup-toggle = Máscara de voz alternada.
+
+voice-mask-popup-accent-toggle = Acento alternado.

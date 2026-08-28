@@ -82,3 +82,20 @@ ion-storm-law-concept-verb = { $concept } ESTA { $verb } { $subjects }
 
 # leaving out renaming since its annoying for players to keep track of
 
+ion-storm-law-who-dagd = ¡{ION-WHO-RANDOM($ion)} DEBE TENER UNA MUERTE GLORIOSA!
+
+ion-law-error-no-protos = ERROR 404
+
+ion-law-error-was-null = 500 ERROR INTERNO DEL SERVIDOR
+
+ion-law-error-no-selectors = ERROR: NO SE PUDO LOCALIZAR EL RECURSO
+
+ion-law-error-no-available-selectors = EL SISTEMA INTENTÓ LLAMAR A UN RECURSO QUE NO EXISTE
+
+ion-law-error-dataset-empty-or-not-found = NO SE PUDO ENCONTRAR EL ARCHIVO QUE BUSCAS
+
+ion-law-error-fallback-dataset-empty-or-not-found = FALLÓ EL PUNTO DE RESTAURACIÓN DEL SISTEMA
+
+ion-law-error-no-selector-selected = EL RECURSO SELECCIONADO FUE MOVIDO O ELIMINADO
+
+ion-law-error-no-bool-value = ESTA ORACIÓN ES FALSA

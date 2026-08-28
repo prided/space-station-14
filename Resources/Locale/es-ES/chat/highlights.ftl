@@ -48,3 +48,41 @@ highlights-psychologist = Psicólogo, Psicología
 highlights-personal-ai = IA personal, "IED"
 highlights-cyborg = Cyborg, Borg, Robot
 highlights-station-ai = Estación AI, "AI", "SII"
+
+highlights-headofpersonnel = Head Of Personnel, "HoP", Service, "Bridge", "Command"
+
+highlights-chiefengineer = Chief Engineer, "CE", Engineering, Engineer, "Engi", "Bridge", "Command"
+
+highlights-chiefmedicalofficer = Chief Medical Officer, "CMO", Medbay, Medical, "Med", "Bridge", "Command"
+
+highlights-headofsecurity = Head of Security, "HoS", Armory, Security, "Sec", "Bridge", "Command"
+
+highlights-researchdirector = Research Director, "RD", Science, "Sci", "RND", "R&D", "Bridge", "Command"
+
+highlights-securitycadet = Security Cadet, Secoff, Cadet, Armory, Security, "Sec"
+
+highlights-securityofficer = Security Officer, Secoff, Officer, Armory, Security, "Sec"
+
+highlights-cargotechnician = Cargo Technician, Cargo Tech, "Cargo", Supply
+
+highlights-salvagespecialist = Salvage Specialist, Salvager, Salvage, "Salv", Miner, "Cargo", Supply
+
+highlights-atmospherictechnician = Atmospheric Technician, Atmos Tech, Atmospheric, Engineering, "Atmos", "Engi"
+
+highlights-stationengineer = Station Engineer, Engineering, Engineer, "Engi"
+
+highlights-technicalassistant = Technical Assistant, Tech Assistant, Engineering, Engineer, "Engi"
+
+highlights-medicaldoctor = Medical Doctor, Doctor, "Doc", Medbay, Medical, "Med"
+
+highlights-medicalintern = Medical Intern, Intern, Medbay, Medical, "Med"
+
+highlights-researchassistant = Research Assistant, Science, "Sci", "RND", "R&D"
+
+highlights-musician = Musician, "Music", Theatre, Theater, Service, "Serv"
+
+highlights-serviceworker = Service Worker, Service, "Serv"
+
+highlights-borg = Cyborg, Silicon, Borg, Robotics, "Robot"
+
+highlights-stationai = Station AI, Silicon, "AI", "sAI"

@@ -48,3 +48,6 @@ cmd-roleban-until = hasta { $expires }
 # Department bans
 cmd-departmentban-desc = Impide que un usuario desempeñe roles pertenecientes a un departamento.
 cmd-departmentban-help = Uso: departmentban <nombre o ID de usuario> <departamento> <motivo> [duración en minutos; omitir o usar 0 para permanente]
+
+cmd-roleunban-unable-to-parse-id = Incapaz de analizar {$id} como un entero de prohibición id.
+                                   {$help}

@@ -31,3 +31,11 @@ lobby-state-playtime-comment-normal = Hoy has jugado durante { $hours } { $hours
 lobby-state-playtime-comment-concerning = Hoy has jugado durante { $hours } horas. Tómate un descanso, por favor.
 lobby-state-playtime-comment-grasstouchless = Hoy has jugado durante { $hours } horas. Considera desconectarte para atender tus necesidades.
 lobby-state-playtime-comment-selfdestructive = Hoy has jugado durante { $hours } horas. ¿De verdad?
+
+lobby-state-background-text = Arte del menú: [color=white]{$backgroundTitle}[/color], por [color=white]{$backgroundArtist}[/color]
+
+lobby-state-background-no-background-text = No hay arte de menú cargado.
+
+lobby-state-background-unknown-title = [color=dimgray]Título desconocido[/color]
+
+lobby-state-background-unknown-artist = [color=dimgray]Artista desconocido[/color]

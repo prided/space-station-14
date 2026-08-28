@@ -5,3 +5,7 @@ entity-category-name-roles = Roles
 entity-category-name-mapping = Cartografía
 entity-category-name-donotmap = No mapear
 entity-category-suffix-donotmap = No mapear
+
+entity-category-name-status-effects = Efectos de estado
+
+entity-category-name-xeno-artifact-effects = Efectos de artefactos xeno

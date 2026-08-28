@@ -40,3 +40,21 @@ names-borg-dataset-39 = Honker
 names-borg-dataset-40 = Golpes de golpe
 names-borg-dataset-41 = Esto es un robot
 names-borg-dataset-42 = 9 de 7
+
+names-borg-dataset-43 = Spark
+
+names-borg-dataset-44 = Stooge
+
+names-borg-dataset-45 = Turguide-Otron
+
+names-borg-dataset-46 = Taffy
+
+names-borg-dataset-47 = Tostadora
+
+names-borg-dataset-48 = Twin
+
+names-borg-dataset-49 = Vectorial
+
+names-borg-dataset-50 = Whitley
+
+names-borg-dataset-51 = xeno

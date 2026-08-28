@@ -10,3 +10,11 @@ comp-emitter-not-anchored = { $target } no está arreglado!
 # Upgrades
 emitter-component-current-type = Tipo de instalación: { $type }.
 emitter-component-type-set = Tipo de decorado: { $type }
+
+emitter-destroyed-broadcast = Un emisor alimentado {$location} ha sido destruido.
+
+emitter-deconstructed-broadcast = Un emisor alimentado {$location} ha sido deconstruido.
+
+emitter-unlocked-broadcast = Un emisor alimentado {$location} ha sido desbloqueado.
+
+emitter-unpowered-broadcast = Un emisor alimentado {$location} ha perdido el poder.

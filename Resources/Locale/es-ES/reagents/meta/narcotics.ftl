@@ -27,3 +27,11 @@ reagent-name-tear-gas = gas lacrimógeno
 reagent-desc-tear-gas = Es un químico que provoca lágrimas e irritación severa, y se utiliza comúnmente para sofocar disturbios.
 reagent-name-happiness = Felicidad
 reagent-desc-happiness = Lleva a un estupor extático y causa daño cerebral leve. Es fácilmente adictivo. La sobredosis provoca cambios de humor.
+
+reagent-name-Hydroxysomnolene = Hydroxysomnolene
+
+reagent-desc-Hydroxysomnolene = Subproducto de la metilendioxiestraquinona (también llamada Hielo de Fresa) al metabolizarse. Se une a los neuroreceptores recién liberados del cerebro después de eliminar la metilendioxiestraquinona del organismo, lo que causa lentitud y somnolencia. Solo se pueden reducir sus efectos esperando a que pasen o consumiendo otra dosis de esa delicia de fresa...
+
+reagent-name-StrawberryIce = Methylenedioxystraquinone
+
+reagent-desc-StrawberryIce = Una droga especial diseñada para ser aún más potente que la desoxiefedrina. Se conoce como "Hielo de Fresa" o "Hielo de Chica" por su color y sabor; es extremadamente adictiva y provoca fuertes síntomas de abstinencia. Sus efectos son más intensos y quienes la consumen afirman volar entre arcoíris por el espacio, pero a quienes dejan de consumirla les aguardan horrores casi eternos.

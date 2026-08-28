@@ -11,3 +11,5 @@ janitorial-trolley-slot-component-slot-name-spray = Rociador
 janitorial-trolley-slot-component-slot-name-bucket = Cubeta
 janitorial-trolley-slot-component-slot-name-trashbag = Bolsa de basura
 janitorial-trolley-slot-component-slot-name-mop = Trapeador
+
+janitorial-trolley-slot-component-slot-name-goldenplunger = Desatascador dorado

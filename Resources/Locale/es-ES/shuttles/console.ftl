@@ -48,3 +48,11 @@ shuttle-console-dock = Muelle
 shuttle-console-docks-label = Puertos de acoplamiento
 shuttle-console-undock-fail = No se desacopló
 shuttle-console-dock-fail = No se atracó
+
+shuttle-console-nav-legend = Leyenda
+
+shuttle-console-nav-other-dock = muelles externos
+
+shuttle-console-nav-cargo-dock = Muelles de carga
+
+shuttle-console-nav-arrivals-dock = Llegadas muelles

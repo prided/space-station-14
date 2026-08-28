@@ -35,3 +35,4 @@ station-ai-fixer-console-window-purge-warning-title = Initiating AI purge
 station-ai-fixer-console-window-purge-warning-1 = Estás a punto de eliminar permanentemente una inteligencia artificial. 
 station-ai-fixer-console-window-purge-warning-2 = Una vez completada esta operación, la inteligencia desaparecerá y no podrá revivirse.
 station-ai-fixer-console-window-purge-warning-3 = ¿Deseas continuar?
+station-ai-fixer-console-window-controls = Controles

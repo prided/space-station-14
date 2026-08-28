@@ -372,3 +372,89 @@ ui-options-admin-enable-overlay-starting-job = Mostrar trabajo inicial
 ui-options-admin-overlay-merge-distance = Distancia de agrupación de etiquetas
 ui-options-admin-overlay-ghost-fade-distance = Distancia de atenuación de la superposición de fantasmas al pasar el cursor
 ui-options-admin-overlay-ghost-hide-distance = Distancia de ocultamiento de la superposición de fantasmas al pasar el cursor
+
+ui-options-mute-unfocused = Silenciar el audio cuando la ventana no esté enfocada
+
+ui-options-audio-device = Dispositivo de salida:
+
+ui-options-audio-device-default = Sistema predeterminado
+
+ui-options-audio-hrtf = Activar procesamiento de audio HRTF (requiere reiniciar)
+
+ui-options-chat-follow-button = Como fantasma, mostrar un botón de seguimiento al lado de los mensajes de chat
+
+ui-options-filter-label = Filtro para escalar:
+
+ui-options-filter-nearest = Más cercano (sin suavizar)
+
+ui-options-filter-bilinear = Bilineal (suavizado)
+
+ui-options-ambient-occlusion = Mostrar oclusión ambiental
+
+ui-options-sharpness = Nitidez:
+
+ui-options-hold-to-attack-melee = Mantener para atacar (cuerpo a cuerpo)
+
+ui-options-hold-to-attack-ranged = Mantener para atacar (a distancia)
+
+ui-options-function-toggle-knockdown = Alternar gateo
+
+ui-options-function-smart-equip-suit-storage = Equipar automáticamente en el almacenamiento del traje
+
+ui-options-function-smart-equip-pocket1 = Equipar automáticamente en el bolsillo 1
+
+ui-options-function-smart-equip-pocket2 = Equipar automáticamente en el bolsillo 2
+
+ui-options-function-inspect-entity-tooltip = Abre una ventana ViewVariables para la entidad que está bajo el cursor.
+
+ui-options-function-inspect-server-component = Inspeccionar componente del servidor
+
+ui-options-function-inspect-server-component-tooltip = Abre una ventana ViewVariables con el componente del servidor configurado mediante el comando "quickinspect" para la entidad bajo el cursor.
+
+ui-options-function-inspect-client-component = Inspeccionar componente del cliente
+
+ui-options-function-inspect-client-component-tooltip = Abre una ventana ViewVariables con el componente del cliente configurado mediante el comando "quickinspect" para la entidad bajo el cursor.
+
+ui-options-accessibility-header-reduced-motion = Movimiento reducido
+
+ui-options-accessibility-header-visuals = Efectos visuales
+
+ui-options-accessibility-header-content = Contenido
+
+ui-options-reduced-motion-tooltip = Actívalo para mostrar sprites alternativos con menos movimiento en algunos objetos.
+
+ui-options-disable-ai-static = Estática de cámara de IA
+
+ui-options-disable-ai-static-tooltip = Reemplaza la estática de la cámara de IA por un degradado simple.
+
+ui-options-disable-blurry-vision = Visión borrosa
+
+ui-options-disable-blurry-vision-tooltip = Reemplaza el movimiento del sombreador de visión borrosa por un efecto estático.
+
+ui-options-disable-drunk-overlay = Superposición de ebriedad
+
+ui-options-disable-drunk-overlay-tooltip = Reemplaza el movimiento del sombreador de ebriedad por un desplazamiento estático.
+
+ui-options-disable-flash-effect = Destello
+
+ui-options-disable-flash-effect-tooltip = Reemplaza el efecto de destello por otro equivalente con menos movimiento.
+
+ui-options-disable-heat-distortion = Distorsión por calor
+
+ui-options-disable-heat-distortion-tooltip = Disminuye el movimiento en el sombreador de distorsión de calor.
+
+ui-options-disable-nv-noise = Superposición de visión nocturna
+
+ui-options-disable-nv-noise-tooltip = Desactiva el efecto de ruido en la superposición de la visión nocturna.
+
+ui-options-disable-rainbow-overlay = Superposición de arcoíris
+
+ui-options-disable-rainbow-overlay-tooltip = Reemplaza el movimiento del sombreador de arcoíris por un desplazamiento estático.
+
+ui-options-disable-singulo-warp = Singularidad
+
+ui-options-disable-singulo-warp-tooltip = Desactiva el efecto de deformación de pantalla de la singularidad.
+
+ui-options-admin-strip-overlay-title = Superposición de desvestir
+
+ui-options-admin-strip-overlay-setting = Mostrar la superposición de desvestir por defecto

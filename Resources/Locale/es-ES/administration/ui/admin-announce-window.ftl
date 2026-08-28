@@ -6,3 +6,6 @@ admin-announce-button = Anunciar
 admin-announce-type-station = Complejo
 admin-announce-type-server = Servidor
 admin-announce-keep-open = Mantener abierto
+cmd-announceui-desc = Abre el anuncio UI.
+
+cmd-announceui-help = Uso: announceui

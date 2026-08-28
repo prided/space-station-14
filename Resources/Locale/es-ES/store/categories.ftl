@@ -29,3 +29,13 @@ store-caregory-spellbook-events = Conjuros de evento
 store-ling-category-combat = Combate
 store-ling-category-sting = Bocados
 store-ling-category-utility = Herramientas
+
+store-category-objective = Objetivo
+
+store-category-nukie-delivery = Ofertas
+
+store-category-combat = Combate
+
+store-category-utility = Utilidad
+
+store-category-stealth = Sigiloso

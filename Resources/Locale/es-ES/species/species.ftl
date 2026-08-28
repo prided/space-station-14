@@ -11,3 +11,5 @@ species-name-skeleton = Esqueleto
 species-name-vox = Vox
 species-name-gingerbread = Deliciosos pasteles
 snail-hurt-by-salt-popup = ¡Una solución salada quema como el ácido!
+
+species-name-vulpkanin = Vulpkanin

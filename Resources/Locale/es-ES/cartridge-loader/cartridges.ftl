@@ -90,3 +90,5 @@ wanted-list-status-label = [color=darkgray]Status[/color] { $status ->
 wanted-list-history-table-time-col = Tiempo
 wanted-list-history-table-reason-col = Infracción
 wanted-list-history-table-initiator-col = Iniciador
+
+crew-manifest-cartridge-loading-failed = ¡No se pudo cargar el manifiesto de la tripulación!

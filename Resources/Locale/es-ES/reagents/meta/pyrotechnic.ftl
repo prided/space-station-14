@@ -12,3 +12,7 @@ reagent-name-welding-fuel = Combustible para soldadura
 reagent-desc-welding-fuel = Es utilizado por soldadores para la soldadura.
 reagent-name-fluorosurfactant = Fluorosurfactante
 reagent-desc-fluorosurfactant = Ácido sulfónico perfluorado, que forma espuma cuando se mezcla con agua.
+
+reagent-name-xenoborg-oil = aceite de xenoborg
+
+reagent-desc-xenoborg-oil = Un aceite ligero usado para resbalar y quemar orgánicos.

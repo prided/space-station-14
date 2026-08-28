@@ -32,3 +32,5 @@ role-subtype-paradox-clone = Paradoja
 role-subtype-wizard = Mago
 role-subtype-xenoborg = Xenoborg
 role-subtype-xenoborg-core = Núcleo Xenoborg
+
+role-subtype-changeling = Changeling

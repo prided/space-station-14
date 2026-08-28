@@ -71,3 +71,7 @@ wire-name-bomb-bolt = BOLT
 wire-name-speech = DNMK
 wire-name-listen = ICR
 wire-name-log = Registro
+
+wires-board-name-weapon-energy-turret = Torreta centinela
+
+wires-board-name-turret-controls = Panel de control de torreta centinela

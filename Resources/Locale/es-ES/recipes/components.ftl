@@ -5,3 +5,5 @@ construction-graph-component-second-flash = Segundo brote
 construction-graph-component-power-cell = Batería
 construction-graph-component-apc-electronics = Electrónica de SAI
 construction-graph-component-payload-trigger = Disparador
+
+construction-graph-component-borg-brain = MMI o cerebro positrónico

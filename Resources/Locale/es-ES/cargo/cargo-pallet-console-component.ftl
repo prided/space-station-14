@@ -4,3 +4,5 @@ cargo-pallet-menu-appraisal-label = Coste estimado: { " " }
 cargo-pallet-menu-count-label = Número de productos vendidos: { " " }
 cargo-pallet-appraise-button = Tarifa
 cargo-pallet-sell-button = Vender
+
+cargo-pallet-menu-no-goods-text = Tasando...

@@ -31,3 +31,5 @@ action-description-toggle-fake-mindshield = Activa/desactiva la transmisión de 
 scramble-implant-activated-popup = Te has vuelto { $identity }
 deathrattle-implant-dead-message = Se registró la muerte de { $user } { $position }.
 deathrattle-implant-critical-message = Los signos vitales { $user } críticos y se requiere ayuda inmediata { $position }.
+
+implanter-component-draw-target = ¡{CAPITALIZE(THE({$user}))} intenta extraerte algo!

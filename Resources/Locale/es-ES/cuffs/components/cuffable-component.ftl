@@ -28,3 +28,5 @@ cuffable-component-remove-cuffs-partial-success-message =
 cuffable-component-remove-cuffs-fail-message = No has podido quitarte las esposas.
 # UncuffVerb
 uncuff-verb-get-data-text = Lanzamiento
+
+cuffable-component-remove-cuffs-push-success-message = Quitas las ataduras y derribas a {$otherName}.

@@ -20,3 +20,11 @@ reagent-name-vomit = Vómitos
 reagent-desc-vomit = Puedes ver algunos fragmentos de la última comida de alguien en él.
 reagent-name-grey-matter = Materia gris
 reagent-desc-grey-matter = El zumo de los pensamientos fluyendo por los oídos.
+
+reagent-name-sulfur-blood = sangre sulfúrica
+
+reagent-desc-sulfur-blood = Se siente casi ácido.
+
+reagent-name-living-tissue = tejido vivo
+
+reagent-desc-living-tissue = Una mezcla de materia visceral de especies alienígenas. Puedes sentirlo mirándote.

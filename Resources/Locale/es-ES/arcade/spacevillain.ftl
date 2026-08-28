@@ -4,3 +4,13 @@ spacevillain-menu-button-attack = ATAQUE
 spacevillain-menu-button-heal = TRATAMIENTO
 spacevillain-menu-button-recharge = Tiempo de recarga
 spacevillain-menu-button-new-game = Nuevo juego
+
+spacevillain-menu-label-enemy = Villano
+
+spacevillain-menu-label-health = {$amount} {-spacevillain-health}
+
+spacevillain-menu-label-magic = {$amount} {-spacevillain-magic}
+
+-spacevillain-health = HP
+
+-spacevillain-magic = MP

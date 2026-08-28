@@ -9,3 +9,9 @@ id-card-console-window-job-selection-label = Preajustes de posición (establecen
 access-id-card-console-component-no-hands-error = No tienes manos.
 id-card-console-privileged-id = ID principal
 id-card-console-target-id = Identificación del objetivo
+
+id-card-console-window-select-all-button = Conceder todo
+
+id-card-console-window-deselect-all-button = Rechazo todo
+
+id-card-console-damaged = La integridad estructural comprometió, expulsando contenidos.

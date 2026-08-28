@@ -16,3 +16,5 @@ admin-logs-include-non-player = Incluyendo no jugadores
 admin-logs-search-logs-placeholder = Busca en los registros...
 admin-logs-refresh = Actualización
 admin-logs-next = Leer más
+
+admin-logs-export = Exportar

@@ -29,3 +29,15 @@ nukeops-role-commander = Comandante
 nukeops-role-agent = Agente
 nukeops-role-medic = Médico
 nukeops-role-operator = Operador
+
+nukeops-disk-location-title = Ubicación final del disco:
+
+nukeops-disk-carried-by = {" "}llevado por [color=White]{$name}[/color], [color=orange]{$job}[/color], {$location} { $user ->
+    [unknown] { "" }
+    *[other] ([color=gray]{$user}[/color])
+}
+
+storage-hierarchy-list = { $items-left ->
+  [0] { $existing-text } { $item },
+  *[other] { $existing-text } { $item }, en
+}

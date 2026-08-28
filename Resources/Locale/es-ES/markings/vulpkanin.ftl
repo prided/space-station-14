@@ -247,3 +247,59 @@ marking-VulpFacialHairElder = Elder
 marking-VulpFacialHairElderChin = Elder Chin
 marking-VulpFacialHairKita = Kita
 marking-VulpFacialHairGoatee = Beard (Snout Goatee)
+
+marking-VulpTailCoyote-coyote = Cola de coyote (base)
+
+marking-VulpTailCoyote = Coyote Vulpkanin
+
+marking-VulpHairAdhara-adhara = Adhara
+
+marking-VulpHairAnita-anita = Anita
+
+marking-VulpHairApollo-apollo = Apolo
+
+marking-VulpHairBelle-belle = Belle
+
+marking-VulpHairBraided-braided = Cabello trenzado
+
+marking-VulpHairBun-bun = Moño
+
+marking-VulpHairCleanCut-clean_cut = Corte limpio
+
+marking-VulpHairCurl-curl = Rizado
+
+marking-VulpHairHawk-hawk = Cresta
+
+marking-VulpHairJagged-jagged = Irregular
+
+marking-VulpHairJeremy-jeremy = Jeremy
+
+marking-VulpHairKajam-kajam = Kajam
+
+marking-VulpHairKeid-keid = Keid
+
+marking-VulpHairKleeia-kleeia = Kleeia
+
+marking-VulpHairMizar-mizar = Mizar
+
+marking-VulpHairPunkBraided-punkbraided = Punk trenzado
+
+marking-VulpHairRaine-raine = Raine
+
+marking-VulpHairRough-rough = Despeinado
+
+marking-VulpHairShort-short = Cabello corto
+
+marking-VulpHairShort2-short2 = Cabello corto 2
+
+marking-VulpHairSpike-spike = Puntiagudo
+
+marking-VulpFacialHairRuff-ruff = Melena
+
+marking-VulpFacialHairElder-elder = Anciano
+
+marking-VulpFacialHairElderChin-elder_chin = Barbilla de anciano
+
+marking-VulpFacialHairKita-kita = Kita
+
+marking-VulpFacialHairGoatee-goatee = Barba (perilla en el hocico)

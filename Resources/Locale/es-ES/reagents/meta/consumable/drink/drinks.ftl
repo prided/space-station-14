@@ -62,3 +62,11 @@ reagent-name-posca = Posca
 reagent-desc-posca = Una bebida de pobres guerreros de una época olvidada.
 reagent-name-mopwata = Shvaboda
 reagent-desc-mopwata = Agua sucia y estancada de fregona, agua de fregona.
+
+reagent-name-milk-sheep = leche de oveja
+
+reagent-desc-milk-sheep = Un líquido blanco opaco producido por una oveja. Alto en grasa.
+
+reagent-name-orange-lime-soda = cobertizo cítrico
+
+reagent-desc-orange-lime-soda = ¡La soda debería ser naranja! ¡No, debería ser limón!

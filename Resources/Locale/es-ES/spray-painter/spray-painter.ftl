@@ -191,3 +191,7 @@ spray-painter-style-canisters-plasma = plasma
 spray-painter-style-canisters-storage = Almacenamiento
 spray-painter-style-canisters-tritium = Tritio
 spray-painter-style-canisters-water-vapor = Vapor de agua
+
+spray-painter-interact-no-color-pick = ¡No puedo encontrar un color para elegir!
+
+spray-painter-interact-color-picked = Color recogido de '{$id}'.

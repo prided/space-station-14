@@ -7,3 +7,5 @@ comp-gas-mixer-ui-mixer-node-side = Puerto secundario:
 comp-gas-mixer-ui-mixer-set = Instalación
 comp-gas-mixer-ui-mixer-max = Máximo
 comp-gas-mixer-ui-needs-anchor = ¡Primero lo asegurad!
+
+comp-gas-mixer-ratio-examine = La proporción del puerto lateral es [color={$statusColor}]{$sidePortRatio}[/color].

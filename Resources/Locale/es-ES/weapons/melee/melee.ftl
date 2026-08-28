@@ -7,3 +7,9 @@ melee-battery-examine =
         [few] Impacto
        *[other] Golpes
     }.
+
+melee-weapon-dealt-no-damage = {CAPITALIZE(THE($weapon))} no daña {THE($target)}!
+
+melee-self-weapon-dealt-no-damage = ¡No estás dañando {THE($target)}!
+
+examine-battery-hits-left = Tiene carga suficiente para [color={$color}]{$count}[/color] golpes.

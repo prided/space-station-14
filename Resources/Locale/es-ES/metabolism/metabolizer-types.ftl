@@ -9,3 +9,5 @@ metabolizer-type-plant = Planta
 metabolizer-type-dwarf = Enano
 metabolizer-type-moth = Nian
 metabolizer-type-arachnid = Arácnido
+
+metabolizer-type-changeling = Changeling

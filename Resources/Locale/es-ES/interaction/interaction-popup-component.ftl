@@ -93,3 +93,11 @@ petting-success-tesla = Acaricias { $target }, rompiendo las leyes de la natural
 petting-failure-tesla = Extiendes la mano para acariciar { $target }, pero el shock te obliga a retirarla.
 petting-success-mail-teleporter = Te planchas { THE($target) } sobre la { POSS-ADJ($target) } de un ejecutivo, una superficie fría.
 petting-failure-mail-teleporter = Estás contactando con { THE($target) } de mascotas, pero { SUBJECT($target) } { CONJUGATE-BE($target) } ocupado clasificando el correo.
+
+petting-success-sheep = Acaricias a {THE($target)} en {POSS-ADJ($target)} cabeza suave y esponjosa.
+
+petting-success-scurret = Acaricias a {THE($target)} en {POSS-ADJ($target)} cabeza legalmente distinta.
+
+petting-failure-sheep = Intentas acariciar a {THE($target)}, ¡pero {SUBJECT($target)} se {CONJUGATE-BASIC($target, "refuse", "refuses")} con terquedad!
+
+petting-failure-scurret = Intentas acariciar a {THE($target)}, ¡pero {SUBJECT($target)} da una voltereta hacia atrás!

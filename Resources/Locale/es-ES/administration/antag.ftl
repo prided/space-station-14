@@ -18,3 +18,11 @@ admin-verb-text-make-paradox-clone = Crear un clon paradójico
 admin-verb-text-make-thief = Haz un ladrón
 admin-verb-text-make-changeling = Haz un Genestealer
 admin-overlay-antag-classic = Antagonista
+
+admin-verb-make-wizard = Haz que el objetivo sea un mago.
+
+admin-verb-make-space-ninja = Convertir al objetivo en ninja espacial
+
+admin-verb-text-make-wizard = Hacer mago
+
+admin-verb-text-make-space-ninja = Hacer Ninja

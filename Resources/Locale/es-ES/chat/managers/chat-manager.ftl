@@ -125,3 +125,41 @@ chat-speech-verb-name-electricity = Electricidad
 chat-speech-verb-electricity-1 = crepita
 chat-speech-verb-electricity-2 = zumbido
 chat-speech-verb-electricity-3 = crujidos
+
+chat-manager-dead-chat-enabled-message = El chat de muertos fue activado.
+
+chat-manager-dead-chat-disabled-message = El chat de muertos fue desactivado.
+
+chat-manager-speech-double-quote-begin = “
+
+chat-manager-speech-double-quote-end = ”
+
+chat-manager-send-hook-admin-wrap-message = ADMIN: [bold](D){$senderName}:[/bold] {$message}
+
+chat-manager-follow-button = (F)
+
+chat-speech-verb-name-sheep = Oveja
+
+chat-speech-verb-sheep-1 = bala
+
+chat-speech-verb-sheep-2 = bala
+
+chat-speech-verb-vulpkanin-1 = ruge
+
+chat-speech-verb-vulpkanin-2 = ladra
+
+chat-speech-verb-vulpkanin-3 = gruñe
+
+chat-speech-verb-vulpkanin-4 = ladra
+
+chat-speech-verb-vulpkanin = Vulpkanin
+
+chat-speech-verb-name-wawa = Wawa
+
+chat-speech-verb-wawa-1 = entona
+
+chat-speech-verb-wawa-2 = afirma
+
+chat-speech-verb-wawa-3 = declara
+
+chat-speech-verb-wawa-4 = reflexiona

@@ -27,3 +27,5 @@ disposal-unit-state-Pressurizing = Descarga
 # putting people in
 disposal-unit-being-inserted = { CAPITALIZE($user) } está intentando empujarte al conducto de la basura.
 disposal-eject-verb-get-data-text = Extraer todo
+
+disposal-unit-is-full = No hay más espacio dentro.

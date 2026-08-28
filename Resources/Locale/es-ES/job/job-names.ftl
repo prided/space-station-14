@@ -126,3 +126,23 @@ job-title-tsf-trader = TCF Merchant
 job-title-tsf-marine = TCF Marine
 job-title-tsf-marine-leader = Comandante del destacamento de la TSF
 job-title-tsf-MARSOC = Marine MARSOC TCF
+
+job-name-centcommoff = Representante de Centcom
+
+job-name-cluwne = Cluwne
+
+job-name-tram-driver = Conductor de tranvía
+
+job-name-sus = Sospechoso
+
+job-name-ninja = Ninja
+
+job-name-syndicate-commander = Comandante del Sindicato
+
+job-name-syndicate-corpsman = Sanitario del Sindicato
+
+job-name-syndicate-operative = Operativo del Sindicato
+
+job-name-pirate = Pirata
+
+job-name-wizard = Mago

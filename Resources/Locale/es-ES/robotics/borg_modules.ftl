@@ -16,3 +16,7 @@ borg-slot-powercell-empty = Baterías
 borg-slot-inflatable-door-empty = Puertas hinchables
 borg-slot-inflatable-wall-empty = Muros inflables
 borg-slot-organs-empty = Órganos e implantes
+
+borg-slot-injector-dropper-empty = Inyectores de precisión
+
+borg-slot-xenoborg-crystal-empty = Cristales Xenoborg

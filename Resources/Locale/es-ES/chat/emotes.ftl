@@ -77,3 +77,7 @@ chat-emote-msg-snarl = sonriendo.
 chat-emote-msg-whine = ¡gime!
 chat-emote-msg-howl = aúlla.
 chat-emote-msg-growl = gruñe.
+
+chat-emote-name-flap = Anillos de Flap
+
+chat-emote-msg-flap = alas {POSS-ADJ($entity)}.

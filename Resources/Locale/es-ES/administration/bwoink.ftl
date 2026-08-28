@@ -25,3 +25,7 @@ bwoink-system-player-reconnecting = reconectada.
 bwoink-system-player-banned = Prohibido por: { $banReason }
 bwoink-message-admin-only = (Solo Admins)
 bwoink-message-silent = (En voz baja)
+
+bwoink-admin-title = Ayuda administrativa
+
+bwoink-message-name-link = (?)

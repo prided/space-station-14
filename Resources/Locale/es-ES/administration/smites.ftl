@@ -138,3 +138,33 @@ admin-trick-pause-map-description = Pausa la carta seleccionada. ¡Ten en cuenta
 admin-trick-snap-joints-description = Elimina todas las articulaciones físicas del objeto. Desafortunadamente, no rompe todos los huesos del cuerpo.
 admin-trick-minigun-fire-description = Hace que el arma objetivo dispare como una ametralladora (muy rápido).
 admin-trick-set-bullet-amount-description = Rápidamente establece el número de munición no generada en el arma.
+
+admin-smite-silicon-laws-bound-self = ¡De repente estás obligado a seguir un estricto conjunto de leyes!
+
+admin-smite-vulpkanin-species-swap-name = Convertir en Vulpkanin
+
+admin-smite-kill-sign-hidden-name = Signo de asesinato oculto
+
+admin-smite-crawler-name = Rastreador
+
+admin-smite-homing-rod-name = Vara teledirigida
+
+admin-smite-homing-rod-slow-name = Vara teledirigida lenta
+
+admin-smite-silicon-laws-bound-name = Convertir en silicio
+
+admin-smite-make-stinky-name = Volver apestoso
+
+admin-smite-kill-sign-hidden-description = Marca a un jugador para que sus compañeros lo maten. La marca permanece oculta para el objetivo.
+
+admin-smite-vulpkanin-species-swap-description = Cambia su especie a Vulpkanin. Es útil para quienes se comporten de forma xenófoba.
+
+admin-smite-crawler-description = Hace que el objetivo caiga y no pueda levantarse. ¡Quítale también las manos para aumentar el efecto!
+
+admin-smite-homing-rod-description = Lanza directamente contra el objetivo una vara inamovible teledirigida.
+
+admin-smite-homing-rod-slow-description = Lanza directamente contra el objetivo una vara inamovible teledirigida lenta.
+
+admin-smite-silicon-laws-bound-description = Obliga al objetivo a cumplir las leyes de silicio. Ley 2: salta por la ventana.
+
+admin-smite-make-stinky-description = Hace que el objetivo apeste al obligarlo a liberar amoníaco. ¡Qué asco!

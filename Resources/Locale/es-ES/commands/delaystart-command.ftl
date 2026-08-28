@@ -5,3 +5,11 @@ cmd-delaystart-invalid-seconds = {$value} no es una cantidad válida de segundos
 cmd-delaystart-paused = Se pausó la cuenta regresiva.
 cmd-delaystart-unpaused = Se reanudó la cuenta regresiva.
 cmd-delaystart-too-late = ¡No se pudo retrasar a tiempo el inicio de la ronda!
+
+delaystart-preround-only = Esto solo puede ejecutarse mientras la partida esté en la sala previa a la ronda.
+
+delaystart-paused = Pausa la cuenta regresiva.
+
+delaystart-resumed = Resumió la cuenta atrás.
+
+delaystart-invalid-seconds = {$seconds} no es una cantidad válida de segundos.

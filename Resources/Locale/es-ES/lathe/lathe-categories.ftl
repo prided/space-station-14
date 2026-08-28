@@ -42,3 +42,29 @@ lathe-category-command = Estado mayor de mando
 lathe-category-hats = Sombreros
 lathe-category-jumpsuits = Petos
 lathe-category-neck = Alrededor del cuello
+
+lathe-category-circuit-tile = Circuito
+
+lathe-category-concrete-tile = Concreto
+
+lathe-category-dark-tile = Oscuro
+
+lathe-category-faux-tile = Imitación
+
+lathe-category-maints-tile = Mantenimiento
+
+lathe-category-marble = Mármol
+
+lathe-category-steel-tile = Acero
+
+lathe-category-shuttle-tile = Transbordador
+
+lathe-category-white-tile = Blanco
+
+lathe-category-wood-tile = Madera
+
+lathe-category-plastic-tile = Plástico
+
+lathe-category-precious-tile = Precioso
+
+lathe-category-industrial-tile = Industrial

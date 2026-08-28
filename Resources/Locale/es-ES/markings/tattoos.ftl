@@ -18,3 +18,55 @@ marking-TattooCampbellLeftLeg = Tatuaje, pierna izquierda (Campbell)
 marking-TattooCampbellRightLeg = Tatuaje, pierna derecha (Campbell)
 marking-TattooEyeRight = Ojo derecho
 marking-TattooEyeLeft = Ojo izquierdo
+
+marking-TattooEyeMothRight-tattoo_eye_moth_r = Ojo derecho
+
+marking-TattooEyeMothRight = Ojo derecho
+
+marking-TattooEyeMothLeft-tattoo_eye_moth_l = Ojo izquierdo
+
+marking-TattooEyeMothLeft = Ojo izquierdo
+
+marking-TattooEyeVulpkaninRight-tattoo_eye_vulpkanin_r = Ojo derecho
+
+marking-TattooEyeVulpkaninRight = Ojo derecho
+
+marking-TattooEyeVulpkaninLeft-tattoo_eye_vulpkanin_l = Ojo izquierdo
+
+marking-TattooEyeVulpkaninLeft = Ojo izquierdo
+
+marking-TattooEyeVoxRight-tattoo_eye_vox_r = Ojo derecho
+
+marking-TattooEyeVoxRight = Ojo derecho
+
+marking-TattooEyeVoxLeft-tattoo_eye_vox_l = Ojo izquierdo
+
+marking-TattooEyeVoxLeft = Ojo izquierdo
+
+marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Sombra de ojos (superior)
+
+marking-TattooEyeshadowUpper = Sombra de ojos (superior)
+
+marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Sombra de ojos (inferior)
+
+marking-TattooEyeshadowLower = Sombra de ojos (inferior)
+
+marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Sombra de ojos (inferior)
+
+marking-TattooEyeshadowLowerReptilian = Sombra de ojos (inferior)
+
+marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Sombra de ojos (pequeña)
+
+marking-TattooEyeshadowVoxSmall = Sombra de ojos (pequeña)
+
+marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Sombra de ojos (media)
+
+marking-TattooEyeshadowVoxMedium = Sombra de ojos (media)
+
+marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Sombra de ojos (grande)
+
+marking-TattooEyeshadowVoxLarge = Sombra de ojos (grande)
+
+marking-TattooVoxTailRing-tattoo_vox_tail_ring = Anillo de cola
+
+marking-TattooVoxTailRing = Anillo de cola

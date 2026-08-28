@@ -30,3 +30,5 @@ artifact-node-class-3 = [color=#a9ff38]Airy[/color]
 artifact-node-class-4 = [color=#2bfff8]Archon[/color]
 artifact-node-class-5 = [color=#7883ff]Light[/color]
 artifact-node-class-6 = [color=#be78ff]Creation[/color]
+
+artifact-unlock-state-continue = El cambio continúa, intensificando...

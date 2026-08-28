@@ -31,3 +31,5 @@ ui-vote-votekick-not-enough-eligible = No hay suficientes jugadores para empezar
 ui-vote-votekick-server-cancelled = La votación para el { $target } de expulsión fue cancelada por el servidor.
 ui-vote-secret-map = Secreto
 ui-vote-secret-win = El siguiente mapa se elegirá al azar.
+
+ui-vote-map-invalid = { $winner } se hizo inválido después de la votación del mapa! ¡No será seleccionado!

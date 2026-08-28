@@ -81,3 +81,11 @@ names-xenoborg-dataset-79 = Depurar
 names-xenoborg-dataset-80 = W.U.L.Y.P.A
 names-xenoborg-dataset-81 = Robust-O-Tron
 #
+
+names-xenoborg-dataset-82 = Toaster of Doom
+
+names-xenoborg-dataset-83 = Ultraviolento
+
+names-xenoborg-dataset-84 = W.A.R Unit
+
+names-xenoborg-dataset-85 = Te matará literalmente y te convertirá en un xenoborg

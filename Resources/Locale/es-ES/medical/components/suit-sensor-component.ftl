@@ -20,3 +20,11 @@ suit-sensor-examine-off = Parece que todos los sensores están [color=darkred]di
 suit-sensor-examine-binary = Parece que los sensores están activados en modo binario.
 suit-sensor-examine-vitals = Parece que los sensores están activados en modo seguimiento de salud.
 suit-sensor-examine-cords = Parece que los sensores están activados en modo de coordenadas y seguimiento de salud.
+
+suit-sensor-description-off = No se reporta nada a la estación.
+
+suit-sensor-description-binary = La muerte del portador se informa a la estación.
+
+suit-sensor-description-vitals = El estado general de salud del usuario se informa a la estación.
+
+suit-sensor-description-cords = El estado y la posición de salud de los usuarios son reportados a la estación.

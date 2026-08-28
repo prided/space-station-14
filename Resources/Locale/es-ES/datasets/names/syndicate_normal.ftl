@@ -23,3 +23,5 @@ names-syndicate-normal-dataset-22 = Victor
 names-syndicate-normal-dataset-23 = Whisky
 names-syndicate-normal-dataset-24 = Rayos X
 names-syndicate-normal-dataset-25 = Zulú
+
+names-syndicate-normal-dataset-26 = Zulu

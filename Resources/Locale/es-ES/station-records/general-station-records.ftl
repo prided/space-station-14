@@ -15,3 +15,7 @@ general-station-record-dna-filter = ADN
 general-station-record-console-search-records = Búsqueda
 general-station-record-console-reset-filters = Reinicio
 general-station-record-console-delete = Borrar
+
+general-station-record-job-filter = Obra
+
+general-station-record-species-filter = Carreras

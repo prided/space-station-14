@@ -36,3 +36,9 @@ comp-kitchen-spike-hooked = ¡[color=red]{ CAPITALIZE($victim) } está empalada 
 comp-kitchen-spike-meat-name = { $name } ({ $victim })
 
 comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE($target) } parece bastante delgado.[/color]
+
+comp-kitchen-spike-butcher-empty = ¡A { CAPITALIZE(THE($victim)) } no le queda carne que descuartizar!
+
+comp-kitchen-spike-need-tool-quality = Se requiere una herramienta de tipo { $quality } para descuartizar a { THE($target) }.
+
+comp-kitchen-spike-deconstruct-occupied = Siguiente, [color=red]unhook el cuerpo[/color].

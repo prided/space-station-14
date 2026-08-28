@@ -150,3 +150,77 @@ food-sequence-burger-content-appendix = Apéndice
 food-sequence-burger-content-ears = Oreja
 food-sequence-burger-content-stomach = Bellota
 food-sequence-burger-content-liver = hígado
+
+food-sequence-cotton-burger-gen = hamburguesa de {$content}
+
+food-sequence-cotton-burger-content-cotton-bol = Algodón
+
+food-sequence-cotton-burger-content-pyrotton-bol = pyro
+
+food-sequence-cotton-burger-content-plushie-throngler = throngle
+
+food-sequence-cotton-burger-content-plushie-ghost = espeluznante
+
+food-sequence-cotton-burger-content-plushie-revenant = muy espeluznante
+
+food-sequence-cotton-burger-content-plushie-bee = zumbadora
+
+food-sequence-cotton-burger-content-plushie-hamptr = jamón
+
+food-sequence-cotton-burger-content-plushie-nukie = nukie
+
+food-sequence-cotton-burger-content-plushie-rouny = rouny
+
+food-sequence-cotton-burger-content-plushie-lamp = lámpara
+
+food-sequence-cotton-burger-content-plushie-arachnid = araña
+
+food-sequence-cotton-burger-content-plushie-lizard = Weh
+
+food-sequence-cotton-burger-content-plushie-experiment = experimental
+
+food-sequence-cotton-burger-content-plushie-spacelizard = espacial
+
+food-sequence-cotton-burger-content-plushie-lizard-inversed = hew
+
+food-sequence-cotton-burger-content-plushie-diona = dion
+
+food-sequence-cotton-burger-content-plushie-shark = Shonk
+
+food-sequence-cotton-burger-content-plushie-ratvar = Ratvarian
+
+food-sequence-cotton-burger-content-plushie-narsie = Nar
+
+food-sequence-cotton-burger-content-plushie-carp = carpa
+
+food-sequence-cotton-burger-content-plushie-magicarp = magi
+
+food-sequence-cotton-burger-content-plushie-holocarp = holo
+
+food-sequence-cotton-burger-content-plushie-slime = viscosa
+
+food-sequence-cotton-burger-content-plushie-snake = Snek
+
+food-sequence-cotton-burger-content-plushie-mouse = ratón
+
+food-sequence-cotton-burger-content-plushie-vox = Skree
+
+food-sequence-cotton-burger-content-plushie-atmosian = atmos
+
+food-sequence-cotton-burger-content-plushie-xeno = Xenomorfo
+
+food-sequence-cotton-burger-content-plushie-penguin = pingüino
+
+food-sequence-cotton-burger-content-plushie-human = uristmc
+
+food-sequence-cotton-burger-content-plushie-moth = esponjosa
+
+food-sequence-cotton-burger-content-plushie-vulp = vulp
+
+food-sequence-cotton-burger-content-plushie-ian = Corgi
+
+food-sequence-cotton-burger-content-among-pequeno = sus
+
+food-sequence-cotton-burger-content-plushie-sheep = lanuda
+
+food-sequence-cotton-burger-content-plushie-sheepspace = lanuda cósmica

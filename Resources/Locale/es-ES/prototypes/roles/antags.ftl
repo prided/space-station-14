@@ -52,3 +52,9 @@ AntagDragon = Dragón Espacial
 AntagSubvertedSilicon = Silicona hostil
 
 roles-antag-pirate-assault-cyborg-name = Ciborg de abordaje pirata
+
+roles-antag-nuclear-operative-agent-name = Sanitario de operativos nucleares
+
+roles-antag-nuclear-operative-agent-objective = Eres el médico del equipo de operativos nucleares. ¡Cura a tu equipo para alcanzar la victoria!
+
+roles-antag-pirate-name = Pirata

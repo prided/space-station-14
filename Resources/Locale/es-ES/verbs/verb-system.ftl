@@ -31,3 +31,9 @@ verb-common-close = Cerrar
 verb-common-open = Abrir
 verb-common-close-ui = Cerrar interfaz
 verb-common-open-ui = Abrir interfaz
+
+verb-categories-adjust = Ajustar
+
+verb-common-enter = Ascenso
+
+verb-common-exit = Salir

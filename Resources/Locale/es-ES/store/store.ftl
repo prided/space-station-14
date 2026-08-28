@@ -16,3 +16,5 @@ store-preset-name-exchanger = Intercambiador
 store-preset-name-blackmarket = Mercado del Diablo
 store-preset-name-nukie-delivery = Entrega de espacio azul nuclear
 store-preset-name-changeling = Tienda de ADN
+
+store-ui-refund-text = Reembolso

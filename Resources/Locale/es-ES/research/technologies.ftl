@@ -90,3 +90,7 @@ research-technology-honk-weapons = Armas de bananio
 research-technology-advanced-spray = Sprays avanzados
 research-technology-quantum-fiber-weaving = Tejido de fibras cuánticas
 research-technology-bluespace-cargo-transport = Transporte de carga en Bluespace
+
+research-technology-telesci = TeleSci
+
+research-technology-clowning-utilities = Utilidades de payaso

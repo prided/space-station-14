@@ -14,3 +14,9 @@ cargoproduct-category-name-science = Ciencia
 cargoproduct-category-name-security = Seguridad
 cargoproduct-category-name-service = Servicio
 cargoproduct-category-name-shuttle = lanzadera
+
+cargoproduct-category-name-instruments = Instrumentos
+
+cargoproduct-category-name-janitorial = Limpieza de estaciones
+
+cargoproduct-category-name-space = Espacio

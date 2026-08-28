@@ -7,3 +7,7 @@ construction-menu-eraser-mode = Modo borrador
 construction-menu-craft = Creación
 construction-menu-search = Búsqueda
 construction-menu-grid-view = Vista en cuadrícula
+
+construction-menu-history-select-previous-recipe = ◄ Atrás
+
+construction-menu-history-select-next-recipe = Siguiente ►

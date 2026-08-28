@@ -197,3 +197,15 @@ guide-entry-rules-ban-types = Tipos de prohibiciones
 guide-entry-rules-ban-durations = Duración de las prohibiciones
 guide-entry-writing = Marcado de correo electrónico
 guide-entry-glossary = Glosario de términos
+
+guide-entry-ressureregulator = Regulador de presión
+
+guide-entry-gasrecycling = Reciclaje de gas
+
+guide-entry-deltapressure = Presión Delta
+
+guide-entry-xenoarchaeologyunlockingnodes = Desbloqueo de nodos
+
+guide-entry-analysisconsole = Consola de análisis
+
+guide-entry-lawsets = Conjuntos de leyes de silicio

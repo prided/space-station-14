@@ -20,3 +20,10 @@ player-panel-delete = Eliminar
 player-panel-rejuvenate = Rejuvenecer
 player-panel-false = No
 player-panel-true = Sí
+player-panel-trust-score = Puntuación de confianza: {TOSTRING($trustScore, "P0")}
+
+player-panel-account-creation = Cuenta creada: {TOSTRING($date, "yyyy-MM-dd")}
+
+player-panel-follow = Sigue
+
+player-panel-camera = Cámara

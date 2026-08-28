@@ -18,3 +18,5 @@ comp-secret-stash-verb-open = Abierto
 secret-stash-plant = Planta
 secret-stash-toilet = Depósito del inodoro
 secret-stash-plushie = Peluche
+
+secret-stash-cake = pastel

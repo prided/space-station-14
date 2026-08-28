@@ -9,3 +9,5 @@ expendable-light-spent-purple-glowstick-name = Luz química púrpura extinguida
 expendable-light-spent-yellow-glowstick-name = Luz química amarilla extinguida
 expendable-light-spent-blue-glowstick-name = luz química azul extinguida
 expendable-light-spent-glowstick-desc = Parece que esta luz química se ha apagado. Qué trágico.
+
+expendable-light-spent-prefix = gastado {$baseName}

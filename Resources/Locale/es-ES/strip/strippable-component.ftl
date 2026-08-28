@@ -19,3 +19,11 @@ strip-verb-get-data-text = Búsqueda
 
 strippable-bound-user-interface-stripping-menu-title = Inventario { $ownerName }
 strippable-bound-user-interface-stripping-menu-ensnare-button = Sujetadores de piernas
+
+strip-all-verb-get-data-text = Strip
+
+strippable-bound-user-interface-stripping-menu-admin-button = Alternar vista administrativa
+
+strippable-bound-user-interface-stripping-menu-admin-button-tooltip = Alterna la superposición administrativa.
+    Candado -> Contrabando
+    "C" -> Camaleón

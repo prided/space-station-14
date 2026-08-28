@@ -61,3 +61,11 @@ spellbook-upgrade-fireball-name = Mejora de Bola de Fuego
 spellbook-upgrade-fireball-description = ¡Te permite mejorar Bola de Fuego hasta el nivel máximo 3!
 spellbook-upgrade-jaunt-name = Mejora del Paseo Éter
 spellbook-upgrade-jaunt-description = ¡Te permite mejorar Caminata de Éter hasta el nivel máximo 3!
+
+spellbook-knock-name = Apertura
+
+spellbook-knock-desc = Abre todas las esclusas, cajas y casilleros cerca.
+
+spellbook-guardian-deck-name = Baraja de tarot
+
+spellbook-guardian-deck-description = Una extraña cubierta de tarjeta que le otorga un tutor espectral cuando se utiliza.

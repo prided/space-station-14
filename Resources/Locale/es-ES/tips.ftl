@@ -135,3 +135,9 @@ tips-dataset-134 = Puedes determinar si una zona con cerraduras cortafuegos est�
 tips-dataset-135 = En lugar de recoger, puedes hacer clic alternativo en la comida para comerla. Esto también funciona para ratones y otras criaturas sin brazos.
 tips-dataset-136 = Si estás encerrado detrás de una puerta encendida: ¡Desconecta el APC o lanza tu tarjeta de identificación contra la puerta para evitar una descarga eléctrica!
 tips-dataset-137 = Si la IA ha energizado la puerta y tienes guantes aislantes, ¡corta y repara el cable de alimentación para reiniciar la electrificación!
+
+tips-dataset-138 = Si quieres evitar que tu prisionero se escape de la celda justo después de ser despojado, enciende el modo de combate mientras no se apaga, esto empujará al prisionero hacia abajo.
+
+tips-dataset-139 = ¡Asegúrate de limpiar con jabón los implantadores ilegales después de usarlos! Los detectives pueden analizar los implantadores usados en busca de pruebas de ADN incriminatorias, pero no si están completamente limpios.
+
+tips-dataset-140 = Las cajas de lotería muy raramente pueden contener el Throngler.

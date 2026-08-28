@@ -10,3 +10,5 @@ comp-storage-window-weight = { $weight }/{ $maxWeight }, Max. Tamaño: { $size }
 comp-storage-window-slots = Espacios: { $itemCount }/{ $maxCount }, máximo. Tamaño: { $size }
 comp-storage-verb-open-storage = Bóveda Abierta
 comp-storage-verb-close-storage = Bóveda cerrada
+
+comp-storage-window-dummy = Dummy.

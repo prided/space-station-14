@@ -59,3 +59,19 @@ signal-port-description-logic-input = Un puerto de entrada que solo acepta nivel
 signal-port-description-logic-memory-input = Alarma para arrancar en una ubicación de memoria cuando está activada.
 signal-port-name-logic-enable = Habilitar
 signal-port-description-logic-enable = Carga la señal de entrada en la ubicación de memoria solo cuando está ALTA.
+
+signal-port-name-trigger-receiver = Activar
+
+signal-port-description-trigger-receiver = Provoca algún mecanismo en el dispositivo.
+
+signal-port-name-logic-random-input = Señal de entrada
+
+signal-port-description-logic-random-input = Recibe cualquier señal para activar una salida al azar.
+
+signal-port-name-target-receiver = Objetivo receptor
+
+signal-port-description-target-receiver = Recibe información de destino de un buscador de destino.
+
+signal-port-name-target-source = Buscador de objetivos
+
+signal-port-description-target-source = Envía información de destino a un receptor de destino.

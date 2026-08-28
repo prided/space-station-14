@@ -80,3 +80,7 @@ ban-panel-role-selection-antag = Antagonista
 ban-panel-role-selection-antag-all-option = Todos
 # Kick on ban
 ban-kick-reason = Se te ha vetado
+
+cmd-banlist-hint = <name/user ID>
+
+ban-panel-expiry-error = err

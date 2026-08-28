@@ -56,3 +56,15 @@ criminal-records-dna-filter = ADN
 
 criminal-records-console-auto-history = ARRESTADO: { $reason }
 criminal-records-console-unspecified-reason = < porque no está especificado>
+
+criminal-records-console-hostile = {$name} ({$job}) fue marcado como hostil por {$officer} para: {$reason}.
+
+criminal-records-console-not-hostile = {$name} ({$job}) ya no está marcado como hostil por {$officer}.
+
+criminal-records-console-eliminated = {$name} ({$job}) fue marcado como eliminado por {$officer}.
+
+criminal-records-console-not-eliminated = {$name} ({$job}) ya no está marcado como eliminado por {$officer}.
+
+criminal-records-job-filter = Obra
+
+criminal-records-species-filter = Carreras

@@ -25,3 +25,5 @@ alert-level-delta-instructions = Los miembros del equipo deben escuchar a los je
 alert-level-epsilon = Epsilon
 alert-level-epsilon-announcement = El Mando Central ha declarado la estación como nivel de amenaza Epsilon. Todos los contratos han sido rescindidos. Gracias por elegir la Fundación.
 alert-level-epsilon-instructions = Todos los contratos han sido rescindidos.
+
+alert-level-delta-nuke-announcement = La estación está actualmente amenazada de destrucción inminente. Se aconseja a los miembros de la tripulación que escuchen a los jefes de personal para obtener más información.

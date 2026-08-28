@@ -59,3 +59,11 @@ borg-type-peace-transponder = Pacificador Ciborg
 borg-type-security-name = Seguridad
 borg-type-security-desc = Proteger a la tripulación y la propiedad del complejo patrullando los pasillos y respondiendo a emergencias. Equipado con sistemas avanzados de detección de amenazas y equipos de protección.
 borg-type-security-transponder = Guardia Ciborg
+
+borg-module-incompatible = Este módulo no es compatible con {THE($existing)}...
+
+borg-module-prerequisite-unfulfilled = Este módulo requiere otro módulo para funcionar...
+
+borg-module-action-name = Activar {$moduleName}
+
+borg-module-action-description = Selecciona {$moduleName} para poder usar las herramientas que proporciona.

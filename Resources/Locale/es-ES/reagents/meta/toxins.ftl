@@ -60,3 +60,7 @@ reagent-name-toxintrash = Material reciclado
 reagent-desc-toxintrash = Desechos procesados de olor horrible, que se asemejan a papillas húmedas en apariencia. El voxam es adecuado para alimentación, para el resto es una sustancia venenosa.
 reagent-name-hemorrhinol = Hemorrinol
 reagent-desc-hemorrhinol = Una toxina que puede destruir vasos sanguíneos, causando hemorragias bastante graves.
+
+reagent-name-hivarol = hivarol
+
+reagent-desc-hivarol = Una toxina que ataca tipos específicos de células en el cuerpo, dañando la comunicación hivemind y causando dolor severo si uno está presente.

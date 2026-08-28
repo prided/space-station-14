@@ -14,3 +14,5 @@ robotics-console-locked-message = El control está bloqueado, desliza con tu DNI
 robotics-console-disable = Desactivar
 robotics-console-destroy = AniquilarVIVIR
 robotics-console-cyborg-destroying = ¡Se ha iniciado el proceso de destrucción remota de { $name }!
+
+robotics-console-hp = [color=gray]Integridad:[/color] [color={$color}]{$hp}[/color]%

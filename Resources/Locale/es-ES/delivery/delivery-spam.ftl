@@ -249,3 +249,15 @@ delivery-spam-12 = ¡Únete a nosotros en nuestro viaje inaugural!
         { "[italic]*Phosphorus Lakes no está permitido nadar, renuncias a todo derecho a representación legal con Relaxination Destinations al llegar a Galimar.[/italic]" }
         { "[italic]**No puedes mirar el Ojo del Espacio más de cinco segundos seguidos. No puedes oír el llamado de la Eye.[/italic]" }
         { "[italic]***Debe firmar un aviso de seguridad antes de desembarcar, Relaxination Destinations no garantiza la seguridad de las ruinas de Agathar. La desaparición de grupos turísticos se ha reducido a un nivel aceptable del 0,23% de todos los grupos turísticos que visitan la ruins.[/italic]" }
+
+delivery-spam-13 =  papel
+    .desc =         Una carta al editor.
+    .content =      A quien corresponda,
+
+                    La famosa serie de libros Las aventuras de Ian y Renault es muy apreciada por los niños pequeños y por al menos un lagarto con dislexia grave (no te preocupes, ya mejoré). Sin embargo, hubo un error de publicación, pues Ian y Renault jamás se equivocarían al escribir. Al parecer, en Las aventuras de Ian y Renault: Un viaje ártico de valor y amistad se usaron dos líneas de Las aventuras de Ian y Renault: Explorando la ciudad.
+                    Esto no tenía sentido. ¿Cómo encontraron Ian y Renault un gatito en el Ártico? ¿Qué hacía allí? ¿Por qué Ian y Renault hacían más de lo habitual ese día? Y la peor falta es la segunda línea fuera de lugar: "Cuando el día se convirtió en noche, estaban agotados pero felices por su aventura en la ciudad" (Ian y Renault, 1). ¡AH, PERDÓN! ¡¡¡NO SABÍA QUE HUBIERA UNA CIUDAD EN EL ÁRTICO EN LA QUE SIMPLEMENTE SE DETUVIERON A TOMAR UN CAFÉ!!! ¡¡¡ESPERA, EL CAFÉ MATA A LOS PERROS Y A LOS ZORROS!!! ¡¡¡¿QUIÉN PUBLICARÍA ESTO?!!! ¡¡¡ACABAN DE MATAR A IAN Y RENAULT!!! ¡¡¡¿CÓMO PUDIERON?!!! ¡¡¡MONSTRUOS!!!
+                    ¿Y qué obtuvieron por matar a Ian y Renault? ¿Eh? ¿Un libro un poco más largo? Necesitaban ese libro más largo, ¿verdad? Los libros más largos se venden por más, ¿no? ¿Querían ganar más dinero?
+                    ¡MIREN ADÓNDE LOS LLEVÓ ESO! MATARON A LOS DOS. FELICIDADES.
+                    AHORA NO HABRÁ MÁS SECUELAS.
+                    ¿QUÉ TAL ESO PARA GANAR DINERO? ¿ES TERRIBLE?
+                    {"["}bold]¡¡¡PUES NO DEBERÍAN HABERLOS MATADO!!![/bold]

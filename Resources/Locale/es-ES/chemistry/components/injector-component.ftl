@@ -32,3 +32,51 @@ injector-component-injecting-target = ¡{ CAPITALIZE($user) } empieza a inyectar
 ## failure
 
 injector-component-failure-hardsuit = ¡No podrás pasar la aguja por una cubierta gruesa!
+
+injector-component-inject-mode-name = inyectar
+
+injector-component-draw-mode-name = extraer
+
+injector-component-dynamic-mode-name = dinámico
+
+injector-component-mode-changed-text = Ahora {$mode}
+
+injector-component-transfer-success-message-self = Transfieres {$amount}u a ti mismo.
+
+injector-component-inject-success-message-self = ¡Te inyectas {$amount}u!
+
+injector-component-draw-success-message-self = Extraes {$amount}u de ti mismo.
+
+injector-component-target-already-full-message-self = ¡Ya estás lleno!
+
+injector-component-target-is-empty-message-self = ¡Estás vacío!
+
+injector-component-cannot-toggle-dynamic-message = ¡No se puede alternar el modo dinámico!
+
+injector-component-empty-message = ¡{CAPITALIZE(THE($injector))} no tiene contenido!
+
+injector-component-blocked-user = ¡El equipo protector bloqueó tu inyección!
+
+injector-component-blocked-other = ¡{CAPITALIZE(THE(POSS-ADJ($target)))} armadura impidió la inyección de {THE($user)}!
+
+injector-component-cannot-transfer-message-self = ¡No puedes transferirte a ti mismo!
+
+injector-component-cannot-inject-message-self = ¡No puedes inyectarte en ti mismo!
+
+injector-component-cannot-draw-message-self = ¡No puedes extraer fluidos de ti mismo!
+
+injector-component-ignore-mobs = ¡Este inyector solo puede interactuar con contenedores!
+
+injector-component-needle-injecting-user = Empiezas a inyectar con la aguja.
+
+injector-component-needle-injecting-target = {CAPITALIZE(THE($user))} está intentando inyectarte una aguja.
+
+injector-component-needle-drawing-user = Empiezas a extraer con la aguja.
+
+injector-component-needle-drawing-target = ¡{CAPITALIZE(THE($user))} está intentando extraerte fluidos con una aguja!
+
+injector-component-spray-injecting-user = Empiezas a preparar la boquilla.
+
+injector-component-spray-injecting-target = ¡{CAPITALIZE(THE($user))} está intentando colocarte una boquilla rociadora!
+
+injector-component-feel-prick-message = ¡Sientes un pequeño pinchazo!

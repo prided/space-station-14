@@ -13,3 +13,5 @@ generic-hours = Horarios
 generic-minutes = Actas
 generic-playtime-title = Tiempo de juego
 generic-confirm = Confirmar
+
+generic-seconds = segundos

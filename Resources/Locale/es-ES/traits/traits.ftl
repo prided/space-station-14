@@ -47,3 +47,19 @@ trait-moldovan-desc = ¡Gypsy le dará a yn cósmico espacial!
 trait-formal-name = Énfasis formal
 trait-formal-desc = Hablas de forma muy formal, ampliando las abreviaturas a significados completos.
 # Fish-edit-end
+
+trait-monochromacy-name = Monocromatismo
+
+trait-monochromacy-desc = Tienes daltonismo total; todo lo que percibes varía entre negro y blanco.
+
+trait-scottish-name = acento escocés
+
+trait-scottish-desc = ¡Hablas como un buen escocés!
+
+trait-hemophilia-name = Hemofilia
+
+trait-hemophilia-desc = Tu cuerpo no hace coágulos de sangre.
+
+trait-impaired-mobility-name = Movilidad reducida
+
+trait-impaired-mobility-desc = Te cuesta moverte sin una ayuda de movilidad.

@@ -15,3 +15,9 @@ cmd-hint-mapping-id = [MapID]
 cmd-hint-mapping-path = [Path]
 cmd-mapping-exists = El mapa { $mapId } ya existe.
 cmd-mapping-pullmap-error = Aquí no se permite el mapeo. Para el mapeo, conéctate a un servidor de mapeo; para obtener mapas del mapeo usa pullmap.
+
+cmd-mapping-try-grid = No se pudo cargar el archivo como mapa. Intentando cargarlo como cuadrícula...
+
+cmd-mapping-success-load-grid = Cuadrícula no inicializada cargada del archivo {$path} en un nuevo mapa con id {$mapId}.
+
+cmd-mapping-hint-grid = [Grid]

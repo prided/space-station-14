@@ -60,3 +60,13 @@ steal-target-groups-animal-morty = Morty
 steal-target-groups-animal-renault = Alice
 steal-target-groups-animal-shiva = Shiva
 steal-target-groups-animal-tropico = Tropico
+
+steal-target-groups-clothing-hands-knuckledusters-qm = nudilleras doradas
+
+steal-target-groups-officer-handguns = pistola de un oficial de seguridad
+
+steal-target-groups-huds = HUD
+
+steal-target-groups-belt-ce = cinturón de herramientas del ingeniero jefe
+
+steal-target-groups-captain-sword = sable del capitán

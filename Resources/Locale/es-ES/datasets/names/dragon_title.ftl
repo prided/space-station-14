@@ -28,3 +28,25 @@ names-dragon-title-dataset-27 = Siempre hambriento
 names-dragon-title-dataset-28 = Destacados
 names-dragon-title-dataset-29 = Peste
 names-dragon-title-dataset-30 = Portador de cenizas
+
+names-dragon-title-dataset-31 = el Picante
+
+names-dragon-title-dataset-32 = el Temporal
+
+names-dragon-title-dataset-33 = el Terrible
+
+names-dragon-title-dataset-34 = el Descortés
+
+names-dragon-title-dataset-35 = el Inmortal
+
+names-dragon-title-dataset-36 = el Desagradable
+
+names-dragon-title-dataset-37 = el Insaciable
+
+names-dragon-title-dataset-38 = el Irracional
+
+names-dragon-title-dataset-39 = el Insignificante
+
+names-dragon-title-dataset-40 = el Imparable
+
+names-dragon-title-dataset-41 = el Vengativo

@@ -9,3 +9,8 @@ loadouts-max-limit = Max. Qty: { $count }
 loadouts-points-limit = Puntos: { $count } / { $max }
 loadouts-points-restriction = No hay suficientes puntos
 loadout-group-sex-restriction = No disponible para esta planta
+
+loadouts-count-items-in-group = {$item} y otros {$count} {$count ->
+[1] objeto
+*[other] objetos
+}

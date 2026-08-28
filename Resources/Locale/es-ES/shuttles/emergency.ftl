@@ -51,3 +51,15 @@ emergency-shuttle-ui-remaining = Izquierda: { $remaining }
 # Map Misc.
 map-name-centcomm = Sede O4
 map-name-terminal = Terminal de llegadas
+
+cmd-delayroundend-desc = Para el temporizador que termina la ronda cuando el servicio de emergencia sale del hiperespacio.
+
+cmd-delayroundend-help = Uso: delayroundend
+
+cmd-dockemergencyshuttle-desc = Llama al transbordador de emergencia y lo acopla a la estación... si es posible.
+
+cmd-dockemergencyshuttle-help = Uso: dockemergencyshuttle
+
+cmd-launchemergencyshuttle-desc = Lanza anticipadamente el transbordador de emergencia si es posible.
+
+cmd-launchemergencyshuttle-help = Uso: launchemergencyshuttle

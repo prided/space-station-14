@@ -333,3 +333,43 @@ flavor-complex-bottledlightning = Como un rayo en una botella
 flavor-complex-punishment = como castigo
 flavor-weh = Como hito
 flavor-hew = Como Hugh
+
+flavor-base-trashy = a basura
+
+flavor-base-motivating = motivador
+
+flavor-complex-dog-food = como comida para perros
+
+flavor-complex-canned-tuna = como atún enlatado
+
+flavor-complex-crush-depth = como la zona hadal
+
+flavor-complex-electric-shark = como la Semana del Tiburón en los trópicos
+
+flavor-complex-tortuga = como té dulce
+
+flavor-complex-jack-rose = como un testimonio
+
+flavor-complex-jungle-bird = como si estuvieras en un aviario tropical
+
+flavor-complex-kalimotxo = como refresco de cola elegante con alcohol
+
+flavor-complex-vampiro = frutal, sabroso y picante
+
+flavor-complex-bronx = como fruta ligeramente dulce y alcohólica
+
+flavor-complex-monkey-business = como volverse simio
+
+flavor-complex-alien-brain-hemorrhage = como una lesión extraterrestre
+
+flavor-complex-espressomartini = como vodka y café
+
+flavor-complex-moscowmule = como vodka y refresco de jengibre
+
+flavor-complex-eggnog = como natilla derretida
+
+flavor-complex-dark-and-stormy = como refresco de jengibre con ron
+
+flavor-complex-radler = como limonada con alcohol
+
+flavor-complex-artifact-glue = como artefactos triturados

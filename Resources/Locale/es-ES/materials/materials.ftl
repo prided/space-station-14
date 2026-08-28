@@ -35,3 +35,11 @@ materials-raw-uranium = Meneo de uranio
 materials-raw-bananium = Mineral de bananio
 materials-raw-salt = Sal gema
 materials-raw-diamond = Diamantes en bruto
+
+materials-uranium-glass = Vidrio de uranio
+
+materials-reinforced-uranium-glass = Vidrio de uranio reforzado
+
+materials-cotton = Algodón
+
+materials-xenoborg-crystal = cristal de xenoborg

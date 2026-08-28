@@ -480,3 +480,128 @@ entity-effect-guidebook-plant-mutate-chemicals =
         [1] Mutantes
         *[other] Mutado
     } planta para producir {$name}
+
+-create-3rd-person =
+
+
+
+
+
+
+    { $chance ->
+        [1] Crea
+        *[other] crean
+    }
+
+-cause-3rd-person =
+
+
+
+
+
+
+    { $chance ->
+        [1] Causa
+        *[other] causan
+    }
+
+-satiate-3rd-person =
+
+
+
+
+
+
+    { $chance ->
+        [1] Sacia
+        *[other] sacian
+    }
+
+entity-effect-guidebook-satiate =
+
+
+
+
+
+
+    { $chance ->
+        [1] Sacia
+        *[other] sacian
+    } { $relative ->
+        [1] {$type} a un ritmo promedio
+        *[other] {$type} a {NATURALFIXED($relative, 3)} veces el ritmo promedio
+    }
+
+entity-effect-guidebook-status-effect-old =
+
+
+
+
+
+
+    { $type ->
+        [update]{ $chance ->
+                    [1] Causa
+                     *[other] causan
+                 } {LOC($key)} durante al menos {NATURALFIXED($time, 3)} {MANY("second", $time)} sin acumulación
+        [add]   { $chance ->
+                    [1] Causa
+                    *[other] causan
+                } {LOC($key)} durante al menos {NATURALFIXED($time, 3)} {MANY("second", $time)} con acumulación
+        [set]  { $chance ->
+                    [1] Causa
+                    *[other] causan
+                } {LOC($key)} durante {NATURALFIXED($time, 3)} {MANY("second", $time)} sin acumulación
+        *[remove]{ $chance ->
+                    [1] Elimina
+                    *[other] eliminan
+                } {NATURALFIXED($time, 3)} {MANY("second", $time)} de {LOC($key)}
+    }
+
+entity-effect-guidebook-plant-mutate-exude-gasses =
+
+
+
+
+
+
+    { $chance ->
+        [1] Muta
+        *[other] mutan
+    } la planta para que exude entre {$minValue} y {$maxValue} moles de gases
+
+entity-effect-guidebook-plant-mutate-consume-gasses =
+
+
+
+
+
+
+    { $chance ->
+        [1] Muta
+        *[other] mutan
+    } la planta para que consuma entre {$minValue} y {$maxValue} moles de gases
+
+entity-effect-guidebook-add-reagent-to-bloodstream =
+
+
+
+
+
+
+    { $chance ->
+        [1] Inyecta
+        *[other] inyectan
+    } {$quantity} de {$reagent} directamente en el torrente sanguíneo
+
+entity-effect-disarm =
+
+
+
+
+
+
+    { $chance ->
+        [1] Desarma
+        *[other] desarman
+    } a la entidad

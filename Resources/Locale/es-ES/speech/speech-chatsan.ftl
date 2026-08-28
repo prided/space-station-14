@@ -127,3 +127,7 @@ chatsan-word-66 = smth
 chatsan-replacement-66 = algo
 chatsan-word-67 = allg
 chatsan-replacement-67 = todo bien
+
+chatsan-word-68 = idk
+
+chatsan-replacement-68 = No lo sé.

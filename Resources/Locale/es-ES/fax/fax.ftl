@@ -81,3 +81,12 @@ fax-label-mailroom = Correo
 fax-label-bar = Barra
 fax-label-courthhouse = Sala de juicios
 fax-label-representative = Representante
+
+fax-machine-sender-info =
+
+
+    ─────────────────────────────────────
+    Fax enviado
+    por: {$sender_name} [dirección: {$sender_addr}]
+    a: {$recipient_name} [dirección: {$recipient_addr}]
+    a las: {$time}

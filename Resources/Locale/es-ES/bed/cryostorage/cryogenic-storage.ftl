@@ -9,3 +9,5 @@ earlyleave-cryo-announcement =
        *[neuter] se movió
     } al almacenamiento criogénico!
 earlyleave-cryo-sender = Sistema de alerta del complejo
+
+cryostorage-paused-map-name = Mapa de almacenamiento corporal Criosleeper

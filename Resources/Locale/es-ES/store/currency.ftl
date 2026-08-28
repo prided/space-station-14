@@ -17,3 +17,5 @@ store-currency-display-wizcoin = Mag₭øin™
 store-currency-display-evolutionpoints = Puntos de evolución
 store-currency-display-doubloon = DB
 store-currency-display-credit = Créditos
+
+store-currency-display-dna = ADN

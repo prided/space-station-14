@@ -34,3 +34,9 @@ ui-vote-fluff = Basado en un GID-NSD robusto™
 
 ui-vote-menu-command-description = Abre el menú de votación
 ui-vote-menu-command-help-text = Uso: votemenu
+
+ui-vote-votekick-type-spamming = Spam
+
+cmd-votemenu-desc = Abre el menú de votación.
+
+cmd-votemenu-help = Uso: votemenu

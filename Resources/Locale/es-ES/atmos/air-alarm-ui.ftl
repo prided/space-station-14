@@ -66,3 +66,37 @@ air-alarm-ui-thresholds-upper-warning-bound = Límite superior de advertencia
 air-alarm-ui-thresholds-lower-warning-bound = Límite inferior de advertencia
 air-alarm-ui-thresholds-copy = Copiar umbrales a todos los dispositivos
 air-alarm-ui-thresholds-copy-tooltip = Copia los umbrales de los sensores de este dispositivo a todos los dispositivos de esta pestaña de alarma atmosférica.
+
+air-alarm-ui-title = Alarma de aire
+
+air-alarm-ui-window-mode-select-locked-label = [bold][color=red] ¡Fallo del selector de modo! [/color][/bold]
+
+-air-alarm-state-name = { $state ->
+    [normal] Normal
+    [warning] Advertencia
+    [danger] Peligro
+    [emagged] Emaggeado
+    *[invalid] No válido
+}
+
+air-alarm-ui-window-listing-title = {$address} : {-air-alarm-state-name(state:$state)}
+
+air-alarm-ui-pump-direction-siphoning = Sifonando
+
+air-alarm-ui-pump-direction-scrubbing = Filtrando
+
+air-alarm-ui-pump-direction-releasing = Liberando
+
+air-alarm-ui-pressure-bound-nobound = Sin límite
+
+air-alarm-ui-pressure-bound-internalbound = Límite interno
+
+air-alarm-ui-pressure-bound-externalbound = Límite externo
+
+air-alarm-ui-pressure-bound-both = Ambos
+
+air-alarm-ui-widget-gas-filters = Filtros de gas
+
+air-alarm-ui-scrubber-select-all-gases-label = Seleccionar todo
+
+air-alarm-ui-scrubber-deselect-all-gases-label = Deseleccionar todos

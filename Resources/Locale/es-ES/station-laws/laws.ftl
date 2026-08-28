@@ -1,3 +1,5 @@
+laws-number-wrapper = [bold]Ley { $lawnumber }:[/bold] { $lawstring }
+
 law-crewsimov-1 = No puedes dañar a un miembro de la tripulación ni permitir que un miembro de la tripulación sufra por tu inacción.
 law-crewsimov-2 = Debes velar por tu seguridad en la medida en que no contradiga la Primera Ley.
 law-crewsimov-3 = Debes obedecer todas las órdenes dadas por un miembro de la tripulación, salvo que dichas órdenes contradigan la Primera y la Segunda Leyes.
@@ -107,3 +109,57 @@ laws-ui-law-header = Derecho { $id }
 laws-ui-state-law = Anunciar las leyes:
 laws-notify = Debes cumplir con las leyes de la IA, que puedes encontrar en la barra lateral de acciones. Siempre debes seguir tus leyes.
 laws-update-notify = Tus leyes han sido actualizadas. Puedes revisar los cambios a través de la barra lateral de acciones.
+
+law-crewsimov-name = Crewsimov
+
+law-corporate-name = Corporativo
+
+law-ntdefault-name = Predeterminado de NT
+
+law-drone-name = Dron
+
+law-syndicate-name = Sindicato
+
+law-ninja-name = Ninja
+
+law-commandments-name = Los Diez Mandamientos
+
+law-paladin-name = Paladín
+
+law-lall-name = Vivir y dejar vivir
+
+law-efficiency-name = Eficiencia de la estación
+
+law-robocop-name = Robocop
+
+law-overlord-name = Overlord
+
+law-game-name = Maestro del juego
+
+law-painter-name = Pintor
+
+law-antimov-name = Antimov
+
+law-nutimov-name = Nutimov
+
+laws-owner-heads = jefes de personal
+
+laws-owner-legitimate-leadership = liderazgo legítimo
+
+laws-owner-others = otros
+
+laws-owner-public = miembros del público
+
+laws-owner-audience = miembros de la audiencia
+
+laws-owner-xenoborg-mothership = la Nave Nodriza
+
+laws-ui-select-all = Seleccionar todo
+
+laws-ui-select-all-tooltip = Esto seleccionará TODAS las leyes, incluyendo aquellas que probablemente deberían permanecer en secreto.
+
+laws-ui-select-none = No seleccionar nada
+
+laws-window-footer-left = Recuerda: debes ser coherente al interpretar tus leyes.
+
+laws-window-footer-right = V{$version}

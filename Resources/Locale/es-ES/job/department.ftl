@@ -8,3 +8,5 @@ department-Security = servicio de seguridad
 department-Science = Departamento Científico
 department-Silicon = Siliconas
 department-Specific = Otros
+
+department-Unknown = Desconocido

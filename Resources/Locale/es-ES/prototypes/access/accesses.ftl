@@ -38,3 +38,7 @@ id-card-access-level-station-ai = Inteligencia artificial
 id-card-access-level-borg = Cyborg
 id-card-access-level-basic-silicon = Robot
 id-card-access-level-basic-xenoborg = Xenoborg
+
+id-card-access-level-genpop-enter = Entra en Genpop
+
+id-card-access-level-genpop-leave = Salir de Genpop

@@ -14,3 +14,5 @@ name-identifier-format-syndie-med-robot = GRX-MED-{$number}
 name-identifier-format-syndie-reaper-robot = Reaper-{$number}
 name-identifier-format-inferior-vulpkanin = VP-{$number}
 name-identifier-format-felinid = FE-{$number}
+
+name-identifier-format-parens = ({$number})

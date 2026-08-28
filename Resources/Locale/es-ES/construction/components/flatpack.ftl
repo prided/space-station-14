@@ -9,3 +9,6 @@ flatpacker-ui-cost-label = Costo de empaquetado
 flatpacker-ui-no-board-label = ¡No hay ninguna placa de máquina!
 flatpacker-ui-insert-board = Primero, inserta una placa de máquina.
 flatpacker-ui-pack-button = Empaquetar
+
+flatpacker-ui-board-invalid-label = [color=red]¡Placa no válida!
+    ¡No se puede imprimir![/color]

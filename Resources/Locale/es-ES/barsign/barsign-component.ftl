@@ -128,3 +128,5 @@ barsign-prototype-description-maltroach = ¡Comida!
 barsign-prototype-name-whiskeyechoes = Echo Whiskey
 barsign-prototype-description-whiskeyechoes = Un bar de élite para óperas de élite... Espera, esta es la estación de la Fundación. ¿Por qué está este signo en la base de datos?
 barsign-prototype-description-sign-off = Este cartel no parece estar incluido.
+
+barsign-prototype-name-empbarsign = Signo de barra deslumbrante

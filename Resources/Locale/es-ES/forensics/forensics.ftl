@@ -26,3 +26,11 @@ forensics-verb-text = Limpiar pruebas
 forensics-verb-message = ¡Limpia huellas dactilares y residuos de ADN del objeto!
 forensics-cleaning = Empieza a limpiar las pruebas de { $target }...
 forensics-cleaning-cannot-clean = ¡Nada se puede limpiar { $target }!
+
+forensic-pad-no-access-due = No se puede acceder a las huellas digitales debido a {THE($entity)}.
+
+forensic-pad-no-access = No puedo acceder a la huella.
+
+forensics-cleaning-user = Empiezas a limpiar las pruebas de {THE($target)}...
+
+forensics-cleaning-others = {CAPITALIZE($user)} comienza a limpiar las pruebas de {THE($target)}.

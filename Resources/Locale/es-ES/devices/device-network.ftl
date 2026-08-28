@@ -48,3 +48,5 @@ device-net-id-wireless = Inalámbrico
 device-net-id-apc = Pintura
 device-net-id-atmos-devices = Dispositivos Atmos
 device-net-id-reserved = Reserva
+
+device-address-unknown = ????-????

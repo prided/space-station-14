@@ -183,3 +183,29 @@ loadout-group-reporter-jumpsuit = { loadout-group-jumpsuit }
 loadout-group-psychologist-jumpsuit = { loadout-group-jumpsuit }
 loadout-group-boxer-jumpsuit = { loadout-group-jumpsuit }
 loadout-group-boxer-gloves = { loadout-group-gloves }
+
+loadout-group-trinkets = Baratijas
+
+loadout-group-jobtrinkets = Baratijas de trabajo
+
+loadout-group-assistive-items = Artículos de asistencia
+
+loadout-group-survival-military = Ver la línea 14, nadie verá esto así :3
+
+loadout-group-bartender-shaker = Coctelera de cantinero
+
+loadout-group-chaplain-bible = Libro Santo
+
+loadout-group-cargo-technician-id = Identificación de técnico de carga
+
+loadout-group-reporter-head = Sombrero de reportero
+
+loadout-group-reporter-outerclothing = Chaleco de reportero
+
+loadout-group-tramdriver-jumpsuit = Mono de conductor de tranvía
+
+loadout-group-tramdriver-outerclothing = Traje de conductor de tranvía
+
+loadout-group-tramdriver-hat = Gorra de conductor de tranvía
+
+loadout-group-tramdriver-gloves = Guantes de conductor de tranvía

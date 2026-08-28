@@ -22,3 +22,330 @@ instruments-component-channels-all-button = Todos
 instruments-component-channels-clear-button = ¡Libre
 # SwappableInstrumentComponent
 swappable-instrument-component-style-set = Establece el estilo { $style }
+
+instruments-component-menu-play-tab-title = Reproducir
+
+instruments-component-menu-config-tab-title = Configuración
+
+instruments-component-menu-midi-source-button = Fuente MIDI
+
+instruments-component-menu-unknown-midi-source-button = Desconocido
+
+instruments-component-menu-input-midi-source-button = Entrada
+
+instruments-component-menu-band-midi-source-button = Banda
+
+instruments-component-menu-file-midi-source-button = Archivos
+
+instruments-component-menu-play-stop-button = Reproducir
+
+instruments-component-menu-shuffle-button = Aleatorio
+
+instruments-component-menu-channels-label = Canales [italic](actualizados durante la reproducción)[/italic]
+
+instruments-component-menu-files-track-playtime-seconds-minutes = {$currentMinutes}:{$currentSeconds}/{$totalMinutes}:{$totalSeconds}
+
+instruments-component-menu-files-track-playtime-seconds-minutes-hours = {$currentHours}:{$currentMinutes}:{$currentSeconds}/{$totalHours}:{$totalMinutes}:{$totalSeconds}
+
+instruments-component-menu-files-file-remove-disabled-info = Detén la reproducción y selecciona un elemento para eliminarlo.
+
+instruments-component-menu-files-add-button = Añadir
+
+instruments-component-menu-files-remove-button = Eliminar
+
+instruments-component-menu-files-rename-button = Renombrar
+
+instruments-component-menu-files-rename-dialog-title = Renombrar archivo
+
+instruments-component-menu-files-rename-dialog-prompt = Nombre nuevo
+
+instruments-component-menu-files-filter = Filtro...
+
+instruments-component-menu-files-error = La operación falló debido a un error inesperado.
+
+instruments-component-menu-input-notice-label = Conecta un dispositivo MIDI a tu computadora
+                                                y toca música.
+
+instruments-component-band-title-label = Bandas
+
+instruments-component-band-refresh = Actualizar
+
+instruments-component-channels-all-channels-label = Todos los canales
+
+instruments-component-channels-percussion-channel-name = [Percusión]
+
+instruments-component-channels-name-display-selector-label = Nombre mostrado
+
+instruments-component-channels-name-display-selector-track-button = Pista
+
+instruments-component-channels-name-display-selector-program-button = Programa
+
+instruments-component-channels-name-display-selector-instrument-button = Instrumento
+
+instruments-component-midi-file-collection-label = Colección MIDI
+
+instruments-component-midi-file-collection-size-label = {$count} archivos MIDI cargados
+
+instruments-component-midi-file-collection-open-dir-button = Abrir carpeta
+
+instruments-component-midi-file-collection-reload-button = Recargar colección
+
+instruments-component-midi-file-collection-delete-all-button = Vaciar colección
+
+instruments-component-menu-midi-min-volume-slider-label = Volumen mínimo de entrada MIDI
+
+instruments-component-menu-midi-channel-acoustic-grand-piano = Gran piano acústico
+
+instruments-component-menu-midi-channel-bright-acoustic-piano = Piano acústico brillante
+
+instruments-component-menu-midi-channel-electric-grand-piano = Piano de cola eléctrico
+
+instruments-component-menu-midi-channel-honky-tonk-piano = Piano honky-tonk
+
+instruments-component-menu-midi-channel-rhodes-piano = Piano Rhodes
+
+instruments-component-menu-midi-channel-chorused-piano = Piano con coro
+
+instruments-component-menu-midi-channel-harpsichord = Clavecín
+
+instruments-component-menu-midi-channel-clavinet = Clavinet
+
+instruments-component-menu-midi-channel-celesta = Celesta
+
+instruments-component-menu-midi-channel-glockenspiel = Glockenspiel
+
+instruments-component-menu-midi-channel-music-box = Caja de música
+
+instruments-component-menu-midi-channel-vibraphone = Vibráfono
+
+instruments-component-menu-midi-channel-marimba = Marimba
+
+instruments-component-menu-midi-channel-xylophone = Xilófono
+
+instruments-component-menu-midi-channel-tubular-bells = Campanas tubulares
+
+instruments-component-menu-midi-channel-dulcimer = Dulcémele
+
+instruments-component-menu-midi-channel-hammond-organ = Órgano Hammond
+
+instruments-component-menu-midi-channel-percussive-organ = Órgano percusivo
+
+instruments-component-menu-midi-channel-rock-organ = Órgano de rock
+
+instruments-component-menu-midi-channel-church-organ = Órgano de iglesia
+
+instruments-component-menu-midi-channel-reed-organ = Órgano de lengüetas
+
+instruments-component-menu-midi-channel-accordion = Acordeón
+
+instruments-component-menu-midi-channel-harmonica = Armónica
+
+instruments-component-menu-midi-channel-tango-accordion = Acordeón de tango
+
+instruments-component-menu-midi-channel-acoustic-nylon-guitar = Guitarra acústica de nailon
+
+instruments-component-menu-midi-channel-acoustic-steel-guitar = Guitarra acústica de acero
+
+instruments-component-menu-midi-channel-electric-jazz-guitar = Guitarra eléctrica de jazz
+
+instruments-component-menu-midi-channel-electric-clean-guitar = Guitarra eléctrica limpia
+
+instruments-component-menu-midi-channel-electric-muted-guitar = Guitarra eléctrica silenciada
+
+instruments-component-menu-midi-channel-overdriven-guitar = Guitarra con overdrive
+
+instruments-component-menu-midi-channel-distortion-guitar = Guitarra distorsionada
+
+instruments-component-menu-midi-channel-guitar-harmonics = Armónicos de guitarra
+
+instruments-component-menu-midi-channel-acoustic-bass = Bajo acústico
+
+instruments-component-menu-midi-channel-fingered-electric-bass = Bajo eléctrico tocado con los dedos
+
+instruments-component-menu-midi-channel-plucked-electric-bass = Bajo eléctrico tocado con púa
+
+instruments-component-menu-midi-channel-fretless-bass = Bajo sin trastes
+
+instruments-component-menu-midi-channel-slap-bass1 = Bajo slap 1
+
+instruments-component-menu-midi-channel-slap-bass2 = Bajo slap 2
+
+instruments-component-menu-midi-channel-synth-bass1 = Bajo sintetizado 1
+
+instruments-component-menu-midi-channel-synth-bass2 = Bajo sintetizado 2
+
+instruments-component-menu-midi-channel-violin = Violín
+
+instruments-component-menu-midi-channel-viola = Viola
+
+instruments-component-menu-midi-channel-cello = Violonchelo
+
+instruments-component-menu-midi-channel-contrabass = Contrabajo
+
+instruments-component-menu-midi-channel-tremolo-strings = Cuerdas con trémolo
+
+instruments-component-menu-midi-channel-pizzicato-strings = Cuerdas pizzicato
+
+instruments-component-menu-midi-channel-orchestral-harp = Arpa orquestal
+
+instruments-component-menu-midi-channel-timpani = Timbales
+
+instruments-component-menu-midi-channel-string-ensemble1 = Conjunto de cuerdas 1
+
+instruments-component-menu-midi-channel-string-ensemble2 = Conjunto de cuerdas 2
+
+instruments-component-menu-midi-channel-synth-strings1 = Cuerdas sintetizadas 1
+
+instruments-component-menu-midi-channel-synth-strings2 = Cuerdas sintetizadas 2
+
+instruments-component-menu-midi-channel-choir-aah = Coro "Aah"
+
+instruments-component-menu-midi-channel-voice-ooh = Voz "Ooh"
+
+instruments-component-menu-midi-channel-synth-choir = Coro sintetizado
+
+instruments-component-menu-midi-channel-orchestra-hit = Golpe orquestal
+
+instruments-component-menu-midi-channel-trumpet = Trompeta
+
+instruments-component-menu-midi-channel-trombone = Trombón
+
+instruments-component-menu-midi-channel-tuba = Tuba
+
+instruments-component-menu-midi-channel-muted-trumpet = Trompeta con sordina
+
+instruments-component-menu-midi-channel-french-horn = Trompa francesa
+
+instruments-component-menu-midi-channel-brass-section = Sección de metales
+
+instruments-component-menu-midi-channel-synth-brass1 = Metales sintetizados 1
+
+instruments-component-menu-midi-channel-synth-brass2 = Metales sintetizados 2
+
+instruments-component-menu-midi-channel-soprano-sax = Saxofón soprano
+
+instruments-component-menu-midi-channel-alto-sax = Saxofón alto
+
+instruments-component-menu-midi-channel-tenor-sax = Saxofón tenor
+
+instruments-component-menu-midi-channel-baritone-sax = Saxofón barítono
+
+instruments-component-menu-midi-channel-oboe = Oboe
+
+instruments-component-menu-midi-channel-english-horn = Corno inglés
+
+instruments-component-menu-midi-channel-bassoon = Fagot
+
+instruments-component-menu-midi-channel-clarinet = Clarinete
+
+instruments-component-menu-midi-channel-piccolo = Flautín
+
+instruments-component-menu-midi-channel-flute = Flauta
+
+instruments-component-menu-midi-channel-recorder = Flauta dulce
+
+instruments-component-menu-midi-channel-pan-flute = Flauta de Pan
+
+instruments-component-menu-midi-channel-bottle-blow = Soplido de botella
+
+instruments-component-menu-midi-channel-shakuhachi = Shakuhachi
+
+instruments-component-menu-midi-channel-whistle = Silbido
+
+instruments-component-menu-midi-channel-ocarina = Ocarina
+
+instruments-component-menu-midi-channel-square-wave-lead = Melodía de onda cuadrada
+
+instruments-component-menu-midi-channel-sawtooth-wave-lead = Melodía de onda de sierra
+
+instruments-component-menu-midi-channel-calliope-lead = Melodía de calíope
+
+instruments-component-menu-midi-channel-chiff-lead = Melodía chiff
+
+instruments-component-menu-midi-channel-charang-lead = Melodía charang
+
+instruments-component-menu-midi-channel-voice-lead = Melodía de voz
+
+instruments-component-menu-midi-channel-fiths-lead = Melodía de quintas
+
+instruments-component-menu-midi-channel-bass-lead = Melodía de bajo
+
+instruments-component-menu-midi-channel-new-age-pad = Pad new age
+
+instruments-component-menu-midi-channel-warm-pad = Pad cálido
+
+instruments-component-menu-midi-channel-polysynth-pad = Pad polisintético
+
+instruments-component-menu-midi-channel-choir-pad = Pad coral
+
+instruments-component-menu-midi-channel-bowed-pad = Pad de arco
+
+instruments-component-menu-midi-channel-metallic-pad = Pad metálico
+
+instruments-component-menu-midi-channel-halo-pad = Pad halo
+
+instruments-component-menu-midi-channel-sweep-pad = Pad de barrido
+
+instruments-component-menu-midi-channel-rain-effect = Efecto de lluvia
+
+instruments-component-menu-midi-channel-soundtrack-effect = Efecto de banda sonora
+
+instruments-component-menu-midi-channel-crystal-effect = Efecto de cristal
+
+instruments-component-menu-midi-channel-atmosphere-effect = Efecto de atmósfera
+
+instruments-component-menu-midi-channel-brightness-effect = Efecto de brillo
+
+instruments-component-menu-midi-channel-goblins-effect = Efecto de duendes
+
+instruments-component-menu-midi-channel-echoes-effect = Efecto de ecos
+
+instruments-component-menu-midi-channel-sci-fi-effect = Efecto de ciencia ficción
+
+instruments-component-menu-midi-channel-sitar = Sitar
+
+instruments-component-menu-midi-channel-banjo = Banjo
+
+instruments-component-menu-midi-channel-shamisen = Shamisen
+
+instruments-component-menu-midi-channel-koto = Koto
+
+instruments-component-menu-midi-channel-kalimba = Kalimba
+
+instruments-component-menu-midi-channel-bagpipe = Gaita
+
+instruments-component-menu-midi-channel-fiddle = Violín folk
+
+instruments-component-menu-midi-channel-shanai = Shanai
+
+instruments-component-menu-midi-channel-tinkle-bell = Campanilla
+
+instruments-component-menu-midi-channel-agogo = Agogo
+
+instruments-component-menu-midi-channel-steel-drums = Tambores de acero
+
+instruments-component-menu-midi-channel-woodblock = Bloque de madera
+
+instruments-component-menu-midi-channel-taiko-drum = Tambor taiko
+
+instruments-component-menu-midi-channel-melodic-tom = Tom melódico
+
+instruments-component-menu-midi-channel-synth-drum = Batería sintetizada
+
+instruments-component-menu-midi-channel-reverse-cymbal = Platillo invertido
+
+instruments-component-menu-midi-channel-guitar-fret-noise = Ruido de trastes de guitarra
+
+instruments-component-menu-midi-channel-breath-noise = Ruido de respiración
+
+instruments-component-menu-midi-channel-seashore = Orilla del mar
+
+instruments-component-menu-midi-channel-bird-tweet = Trino de pájaro
+
+instruments-component-menu-midi-channel-telephone-ring = Timbre de teléfono
+
+instruments-component-menu-midi-channel-helicopter = Helicóptero
+
+instruments-component-menu-midi-channel-applause = Aplausos
+
+instruments-component-menu-midi-channel-gunshot = Disparo

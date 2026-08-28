@@ -18,3 +18,5 @@ sandbox-window-show-spawns-button = Apariciones de exposición
 sandbox-window-show-bb-button = Mostrar BB
 sandbox-window-show-npc-button = NPCs de la exposición
 sandbox-window-link-machines-button = Dispositivos de enlace
+
+sandbox-window-toggle-thermal-vision = Alternar visión térmica

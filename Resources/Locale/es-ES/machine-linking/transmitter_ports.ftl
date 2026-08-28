@@ -46,3 +46,11 @@ signal-port-name-power-charging = Carga
 signal-port-description-power-charging = Este puerto se activa con una señal de alta intensidad cuando la batería está cargando, y con una señal baja cuando no lo está.
 signal-port-name-power-discharging = Descarga
 signal-port-description-power-discharging = Este puerto se activa con una alta intensidad de señal cuando la batería está baja, y con baja intensidad cuando no lo está.
+
+signal-port-name-trigger-sender = Activar
+
+signal-port-description-trigger-sender = Este puerto se invoca cuando el dispositivo dispara.
+
+signal-port-name-item-detected = Detectado
+
+signal-port-description-item-detected = Este puerto se invoca cuando el transmisor detecta un elemento.

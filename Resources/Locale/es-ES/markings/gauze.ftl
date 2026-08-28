@@ -68,3 +68,63 @@ marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Insectoide, vendaje, cabe
 marking-GauzeMothLowerLegRight = Insectoide, vendaje, cabestrillo inferior de pierna (derecha)
 marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Insectoide, vendaje, cabestrillo inferior de la pierna (izquierda)
 marking-GauzeMothLowerLegLeft = Insectoide, vendaje, cabestrillo inferior de la pierna (izquierda)
+
+marking-GauzeVulpStomach-gauze_vulp_abdomen = Venda de gasa abdominal Vulpkanin
+
+marking-GauzeVulpStomach = Venda de gasa abdominal Vulpkanin
+
+marking-GauzeVulpBlindfold-gauze_vulp_blindfold = Venda para los ojos Vulpkanin
+
+marking-GauzeVulpBlindfold = Venda para los ojos Vulpkanin
+
+marking-GauzeVulpBoxerwrapLeft-gauze_vulp_boxerwrap_l = Venda de gasa para la mano Vulpkanin (izquierda)
+
+marking-GauzeVulpBoxerwrapLeft = Venda de gasa para la mano Vulpkanin (izquierda)
+
+marking-GauzeVulpBoxerwrapRight-gauze_vulp_boxerwrap_r = Venda de gasa para la mano Vulpkanin (derecha)
+
+marking-GauzeVulpBoxerwrapRight = Venda de gasa para la mano Vulpkanin (derecha)
+
+marking-GauzeVulpHead-gauze_vulp_head = Venda de gasa para la cabeza Vulpkanin
+
+marking-GauzeVulpHead = Venda de gasa para la cabeza Vulpkanin
+
+marking-GauzeVulpLeftArm-gauze_vulp_leftarm = Venda de gasa para el brazo Vulpkanin (izquierda)
+
+marking-GauzeVulpLeftArm = Venda de gasa para el brazo Vulpkanin (izquierda)
+
+marking-GauzeVulpLefteyePatch-gauze_vulp_lefteye_2 = Parche de gasa Vulpkanin (izquierdo)
+
+marking-GauzeVulpLefteyePatch = Parche de gasa Vulpkanin (izquierdo)
+
+marking-GauzeVulpLowerArmRight-gauze_vulp_lowerarm_r = Venda de gasa para la muñeca Vulpkanin (derecha)
+
+marking-GauzeVulpLowerArmRight = Venda de gasa para la muñeca Vulpkanin (derecha)
+
+marking-GauzeVulpLowerLegLeft-gauze_vulp_lowerleg_l = Venda de gasa para el tobillo Vulpkanin (izquierda)
+
+marking-GauzeVulpLowerLegLeft = Venda de gasa para el tobillo Vulpkanin (izquierda)
+
+marking-GauzeVulpLowerLegRight-gauze_vulp_lowerleg_r = Venda de gasa para el tobillo Vulpkanin (derecha)
+
+marking-GauzeVulpLowerLegRight = Venda de gasa para el tobillo Vulpkanin (derecha)
+
+marking-GauzeVulpRighteyePatch-gauze_vulp_righteye_2 = Parche de gasa Vulpkanin (derecho)
+
+marking-GauzeVulpRighteyePatch = Parche de gasa Vulpkanin (derecho)
+
+marking-GauzeVulpShoulder-gauze_vulp_shoulder = Cabestrillo de gasa Vulpkanin
+
+marking-GauzeVulpShoulder = Cabestrillo de gasa Vulpkanin
+
+marking-GauzeVulpUpperArmRight-gauze_vulp_upperarm_r = Venda de gasa para el antebrazo Vulpkanin (derecha)
+
+marking-GauzeVulpUpperArmRight = Venda de gasa para el antebrazo Vulpkanin (derecha)
+
+marking-GauzeVulpUpperLegLeft-gauze_vulp_upperleg_l = Venda de gasa para el muslo Vulpkanin (izquierda)
+
+marking-GauzeVulpUpperLegLeft = Venda de gasa para el muslo Vulpkanin (izquierda)
+
+marking-GauzeVulpUpperLegRight-gauze_vulp_upperleg_r = Venda de gasa para el muslo Vulpkanin (derecha)
+
+marking-GauzeVulpUpperLegRight = Venda de gasa para el muslo Vulpkanin (derecha)

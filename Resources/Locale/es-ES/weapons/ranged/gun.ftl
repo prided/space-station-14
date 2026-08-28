@@ -60,3 +60,11 @@ gun-revolver-spin = Haz girar el carrete
 gun-revolver-spun = El tambor gira
 gun-speedloader-empty = El Speedloader está vacío
 examine-weapon-dismantle-on-shoot = Las armas pueden deshacerse al dispararse ([color=yellow]{ $chance }%[/color]).
+
+gun-set-fire-mode-examine = Modo actual: [color=yellow]{$mode}[/color].
+
+gun-set-fire-mode-popup = Cambiado a {$mode}
+
+examine-gun-spread-modifier-reduction = La dispersión se redujo un [color=yellow]{$percentage}%[/color].
+
+examine-gun-spread-modifier-increase = La dispersión aumentó un [color=yellow]{$percentage}%[/color].

@@ -19,3 +19,19 @@ stat-item-price = Tamaño
 stat-drawrate-values = Nivel de consumo de pintura
 stat-drawrate-id = ID
 stat-drawrate-rate = Nivel de consumo (W)
+
+stat-melee-values = Daño del arma cuerpo a cuerpo
+
+stat-melee-id = ID
+
+stat-melee-base-damage = Daño base
+
+stat-melee-wield-damage = Daño al empuñar
+
+stat-melee-attack-rate = Tasa de ataque
+
+stat-melee-dps = DPS
+
+stat-melee-structural-damage = Daño estructural
+
+stat-melee-structural-wield-damage = Daño estructural al empuñar

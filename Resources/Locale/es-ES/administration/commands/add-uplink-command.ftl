@@ -5,3 +5,11 @@ add-uplink-command-completion-2 = Uplink uid (por defecto PDA)
 add-uplink-command-completion-3 = ¿Se incluyen los descuentos por enlace ascendente? (verdadero/falso)
 add-uplink-command-error-1 = El jugador seleccionado no tiene una entidad controlada
 add-uplink-command-error-2 = No se añadió el enlace al jugador
+
+cmd-adduplink-desc = Crea un uplink en el objeto seleccionado y lo vincula a la cuenta del usuario.
+
+cmd-adduplink-help = Uso: adduplink [username] [item-id] [discountEnabled]
+
+add-uplink-command-success-pda = uplink añadido al reproductor PDA con código {$code}
+
+add-uplink-command-success-implant = uplink añadido al reproductor como implante

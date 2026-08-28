@@ -97,3 +97,9 @@ reagent-physical-desc-slimy = Viscoso
 reagent-physical-desc-neural = Neural
 reagent-physical-desc-unidentifiable = No identificable
 reagent-physical-desc-vile = Repugnante
+
+reagent-physical-desc-non-newtonian = non-newtonian
+
+reagent-physical-desc-thin = delgado
+
+reagent-physical-desc-arcryox = azul helado

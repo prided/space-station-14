@@ -237,3 +237,48 @@ tiles-cosmiccult-floor-split = Superficie ominosa con patrón dividido
 tiles-cosmiccult-floor-void = Superficie hueca del suelo
 tiles-cosmiccult-floor-malign = Superficie ominosa
 
+tiles-rcd-plating = revestimiento RCD
+
+tiles-steel-floor-slats-continuous = baldosa continua de listones de acero
+
+tiles-steel-floor-vertical-slats-bordered = baldosa vertical de listones de acero con borde
+
+tiles-steel-floor-horizontal-slats-bordered = baldosa horizontal de listones de acero con borde
+
+tiles-white-floor-slats-continuous = baldosa continua de listones de acero blanco
+
+tiles-white-floor-vertical-slats-bordered = baldosa vertical de listones de acero blanco con borde
+
+tiles-white-floor-horizontal-slats-bordered = baldosa horizontal de listones de acero blanco con borde
+
+tiles-dark-floor-slats-continuous = baldosa continua de listones de acero oscuro
+
+tiles-dark-floor-vertical-slats-bordered = baldosa vertical de listones de acero oscuro con borde
+
+tiles-dark-floor-horizontal-slats-bordered = baldosa horizontal de listones de acero oscuro con borde
+
+tiles-uranium-glass-floor = Piso de vidrio de uranio
+
+tiles-plasma-glass-floor = suelo de vidrio de plasma
+
+tiles-plastitanium-glass-floor = Piso de vidrio de plastitanio
+
+tiles-exo-viscera = suelo visceral de exodermis
+
+tiles-exo-hull = suelo de casco de exodermis
+
+tiles-exo-techmaint = suelo técnico de exodermis
+
+tiles-exo-horizontal = suelo horizontal de exodermis
+
+tiles-exo-vertical = suelo vertical de exodermis
+
+tiles-exo-corner-ne = esquina noreste de suelo de exodermis
+
+tiles-exo-corner-nw = esquina noroeste de suelo de exodermis
+
+tiles-exo-corner-se = esquina sureste de suelo de exodermis
+
+tiles-exo-corner-sw = esquina suroeste de suelo de exodermis
+
+tiles-exo-borg = suelo de mecadermis

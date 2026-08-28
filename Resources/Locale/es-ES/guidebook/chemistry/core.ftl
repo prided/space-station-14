@@ -30,3 +30,9 @@ guidebook-reagent-recipes-mix-info =
             }
     }
 guidebook-reagent-physical-description = [italic]La sustancia parece { $description }.[/italic].
+
+guidebook-reagent-effects-metabolism-stage-rate = [bold]{$stage}[/bold] [color=gray]({$rate} unidades por segundo)[/color]
+
+guidebook-reagent-effects-metabolite-item = {$reagent} a una velocidad de { NATURALPERCENT($rate, 2) }
+
+guidebook-reagent-effects-metabolites = Metaboliza a { $items }.

@@ -13,3 +13,5 @@ job-supervisors-security = Oficiales, el Supervisor y el Jefe de Seguridad
 job-supervisors-science = científicos, supervisor científico
 job-supervisors-hire = a sus empleadores
 job-supervisors-everyone = En general, todos
+
+job-supervisors-nobody = heridos

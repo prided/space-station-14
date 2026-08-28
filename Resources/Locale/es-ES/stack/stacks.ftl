@@ -261,3 +261,82 @@ stack-xeno-steel-corner = Azulejos de Esquinas de Acero Xeno
 stack-xenoborg = Fichas de Xenoborg
 stack-xeno-maint = Xeno-Techzone
 stack-dark-squiggly = Azulejos corrugados de acero oscuro
+
+stack-explosive-cord = {$amount ->
+    [1] cordón explosivo
+    *[other] cordones explosivos
+}
+
+stack-xenoborg-crystal = {$amount ->
+    [1] cristal de xenoborg
+    *[other] cristales de xenoborg
+}
+
+stack-conveyor-belt = {$amount ->
+    [1] cinta transportadora
+    *[other] cintas transportadoras
+}
+
+stack-dark-steel-horizontal-slats-tile-bordered = baldosa horizontal de listones de acero oscuro con borde
+
+stack-dark-steel-vertical-slats-tile-bordered = baldosa vertical de listones de acero oscuro con borde
+
+stack-dark-steel-slats-tile-continuous = baldosa continua de listones de acero oscuro
+
+stack-steel-horizontal-slats-tile-bordered = baldosa horizontal de listones de acero con borde
+
+stack-steel-vertical-slats-tile-bordered = baldosa vertical de listones de acero con borde
+
+stack-steel-slats-tile-continuous = baldosa continua de listones de acero
+
+stack-white-steel-horizontal-slats-tile-bordered = baldosa horizontal de listones de acero blanco con borde
+
+stack-white-steel-vertical-slats-tile-bordered = baldosa vertical de listones de acero blanco con borde
+
+stack-white-steel-slats-tile-continuous = baldosa continua de listones de acero blanco
+
+stack-black-carpet-tile = baldosa de alfombra negra
+
+stack-ironsand-concrete-tile = baldosa de concreto y arena de hierro
+
+stack-ironsand-concrete-mono-tile = baldosa lisa de concreto y arena de hierro
+
+stack-ironsand-concrete-smooth = concreto liso con arena de hierro
+
+stack-dark-astro-grass-floor = suelo de astrohierba oscura
+
+stack-light-astro-grass-floor = suelo de astrohierba clara
+
+stack-desert-astro-sand-floor = suelo de astroarena desértica
+
+stack-white-marble-floor = suelo de mármol blanco
+
+stack-dark-marble-floor = suelo de mármol oscuro
+
+stack-plasma-marble-floor = suelo de plasmármol
+
+stack-uranium-marble-floor = Piso de mármol de uranio
+
+stack-astro-ironsand-floor = suelo de arena de hierro astral
+
+stack-astro-ironsand-floor-borderless = suelo sin bordes de arena de hierro astral
+
+stack-exo-hull-floor = suelo de casco de exodermis
+
+stack-exo-viscera-floor = suelo visceral de exodermis
+
+stack-exo-techmaint-floor = suelo técnico de exodermis
+
+stack-exo-horizontal-floor = suelo horizontal de exodermis
+
+stack-exo-vertical-floor = suelo vertical de exodermis
+
+stack-exo-corner-ne-floor = esquina noreste de suelo de exodermis
+
+stack-exo-corner-nw-floor = esquina noroeste de suelo de exodermis
+
+stack-exo-corner-se-floor = esquina sureste de suelo de exodermis
+
+stack-exo-corner-sw-floor = esquina suroeste de suelo de exodermis
+
+stack-exo-borg-floor = suelo de mecadermis

@@ -8,3 +8,5 @@ comp-gas-filter-ui-filter-gas-select = Selecciona el gas a filtrar:
 comp-gas-filter-ui-filter-gas-confirm = Gas selecto
 comp-gas-filter-ui-filter-gas-none = No
 comp-gas-filter-ui-needs-anchor = ¡Primero lo asegurad!
+
+comp-gas-filter-filtered-gas-examine = Está filtrando[color={$statusColor}]{$filteredGas}[/color].

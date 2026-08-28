@@ -263,3 +263,42 @@ construction-graph-tag-ground-cannabis-vita-desc = Descripción de la cannabis v
 construction-graph-tag-smokeablejointvita = Porros de Fumador Vita
 # SCP Tag
 construction-graph-tag-upgradelocus = Actualización del módulo Locus
+construction-graph-tag-boxhug = una caja de abrazos
+
+construction-graph-tag-manipulator = Pieza de Máquina Modular
+
+soil-construction-graph-any-mushroom = cualquier hongo
+
+construction-graph-tag-mop-basic = trapeador
+
+construction-graph-tag-paper = papel de oficina
+
+construction-graph-tag-core-pinpointer-piece = pieza del localizador del núcleo
+
+construction-graph-tag-black-carpet = alfombra negra
+
+construction-graph-tag-blue-carpet = alfombra azul
+
+construction-graph-tag-cyan-carpet = alfombra cian
+
+construction-graph-tag-green-carpet = alfombra verde
+
+construction-graph-tag-orange-carpet = alfombra naranja
+
+construction-graph-tag-pink-carpet = alfombra rosa
+
+construction-graph-tag-purple-carpet = alfombra morada
+
+construction-graph-tag-red-carpet = alfombra roja
+
+construction-graph-tag-white-carpet = alfombra blanca
+
+construction-graph-tag-turret-control-electronics = electrónica de panel de control de torretas centinelas
+
+construction-graph-tag-red-crystal-shard = fragmento de cristal rojo
+
+construction-graph-tag-green-crystal-shard = fragmento de cristal verde
+
+construction-graph-tag-backpack = mochila
+
+construction-graph-tag-centrifuge-compatible = contenedor centrifugable

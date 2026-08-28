@@ -55,3 +55,21 @@ shell-argument-number-invalid = ¡El argumento { $index } debe ser un número v�
 # Hints
 shell-argument-username-hint = <username>
 shell-argument-username-optional-hint = [username]
+
+shell-can-only-run-from-pre-round-lobby = Sólo puedes ejecutar este comando mientras el juego está en el lobby pre-redo.
+
+shell-can-only-run-while-round-is-active = Sólo puedes ejecutar este comando mientras el juego está en una ronda.
+
+shell-must-have-body = Debes tener un cuerpo para ejecutar este comando.
+
+shell-unknown-error = Se ha producido un error desconocido.
+
+shell-need-exactly-zero-arguments = Este comando toma cero argumentos.
+
+shell-missing-required-permission = ¡Necesitas {$perm} para este comando!
+
+shell-invalid-bool-value = Booleano inválido: '{$value}'
+
+shell-entity-target-lacks-component = La entidad de destino no tiene componente {INDEFINITE($componentName)} {$componentName}
+
+shell-argument-chat-invalid = Argumento {$index} debe ser un chat válido!

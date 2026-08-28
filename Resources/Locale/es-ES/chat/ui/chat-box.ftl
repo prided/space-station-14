@@ -31,3 +31,15 @@ hud-chatbox-channel-Server = Servidor
 hud-chatbox-channel-Visual = Acciones
 hud-chatbox-channel-Damage = Daño
 hud-chatbox-channel-Unspecified = Sin especificar
+
+hud-chatbox-highlights = Aspectos destacados:
+
+hud-chatbox-highlights-button = Confirmar
+
+hud-chatbox-highlights-tooltip = Las palabras deben separarse con saltos de línea.
+                                 Si se encierran entre comillas, solo se resaltarán
+                                 cuando estén separadas por espacios o signos de puntuación.
+
+hud-chatbox-highlights-placeholder = @McHands
+                                     "Judge"
+                                     Servicios médicos

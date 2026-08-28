@@ -16,3 +16,5 @@ nav-beacon-pos-no-beacons = nadie sabe dónde
 nav-beacon-pos-format = [color={ $color }]about { $marker }[/color]
 nav-beacon-pos-format-direction = [color={ $color }]{ $modifier } a { $direction } de { $marker }[/color]
 nav-beacon-pos-format-direction-mod-far = muy away{ "" }
+
+station-map-unknown-station = Estación desconocida

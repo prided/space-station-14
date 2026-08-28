@@ -17,3 +17,5 @@ wieldable-component-not-in-hands = { CAPITALIZE($item) } no está en tus manos.
 wieldable-component-requires = ¡{ CAPITALIZE($item) } debe estar en ambas manos!
 gunwieldbonus-component-examine = Esta arma tiene mayor precisión cuando se sostiene con ambas manos.
 gunrequireswield-component-examine = Esta arma solo puede dispararse sosteniéndola con ambas manos.
+
+wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } te impide empuñar { THE($item) }.

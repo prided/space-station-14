@@ -8,3 +8,5 @@ clumsy-hypospray-fail-message = Oops! You injected yourself.
 
 clumsy-catch-fail-message-user = { CAPITALIZE(THE($item)) } hits your head!
 clumsy-catch-fail-message-others = { CAPITALIZE(THE($item)) } hits { THE($catcher) }'s head!
+
+clumsy-defibrillator-fail-message = Oops! Te has suicidado.

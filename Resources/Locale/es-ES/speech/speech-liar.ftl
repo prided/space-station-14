@@ -143,3 +143,21 @@ liar-word-27 = Saludable
 liar-word-replacement-27 = heridos
 liar-word-28 = Saludable
 liar-word-replacement-28 = heridos
+
+liar-word-5-2 = Yeap
+
+liar-word-7-2 = tú
+
+liar-word-7-3 = Sí.
+
+liar-word-14-2 = No quiero
+
+liar-word-16-2 = Alguien
+
+liar-word-18-2 = no lo hará
+
+liar-word-20-2 = ""
+
+liar-word-22-2 = ""
+
+liar-word-37-2 = no

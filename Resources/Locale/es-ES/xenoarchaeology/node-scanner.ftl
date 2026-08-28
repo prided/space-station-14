@@ -6,3 +6,7 @@ node-scanner-artifact-state-ready = Artefak está listo para la interacción
 node-scanner-artifact-state-unlocking = El artefacto resuena con tus acciones
 node-scanner-artifact-state-cooldown = El artefacto descansa
 node-scanner-artifact-scanned-time-none = Escanea el artefacto para ver su estado
+
+node-scanner-artifact-connected = Artefacto escaneado
+
+node-scanner-artifact-non-connected = Objeto no encontrado o fuera de rango

@@ -54,3 +54,7 @@ job-description-station-ai = Sigue tus leyes, sirve a la tripulación.
 job-description-visitor = Disfruta de tu visita a la estación.
 job-description-warden = Patrullar el departamento de seguridad, asegurarse de que nadie robe del arsenal y asegurarse de que todos los presos estén registrados y liberados al final de su condena.
 job-description-zookeeper = Haz un espectáculo divertido con animales adorables y carpas espaciales para que todos los miembros de la tripulación lo admiren. Esta posición está disponible en las estaciones Gemini y Avrite.
+
+job-description-tram-driver = Conduce un tranvía de parada en parada.
+
+job-description-centcommoff = Actúa como enlace con la nueva estación espacial de última generación en la flota de Nanotrasen.

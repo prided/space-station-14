@@ -12,3 +12,17 @@ surveillance-camera-setup-ui-set = Instalación
 # Sunrise-Edit
 surveillance-camera-monitor-ui-flavor-left = No mires a la ducha del capitán
 surveillance-camera-monitor-ui-flavor-right = v1.2
+
+surveillance-camera-monitor-ui-tab-list = Lista
+
+surveillance-camera-monitor-ui-tab-map = Mapa
+
+surveillance-camera-monitor-ui-legend-active = ACTIVOS
+
+surveillance-camera-monitor-ui-legend-inactive = INACTIVO
+
+surveillance-camera-monitor-ui-legend-selected = Seleccionada
+
+surveillance-camera-monitor-ui-legend-invalid = Error
+
+wire-name-camera-map = MAP

@@ -7,3 +7,5 @@ ui-escape-guidebook = Guía
 ui-escape-wiki = Wiki
 ui-escape-disconnect = Desconectarse
 ui-escape-quit = Salir
+
+ui-escape-feedback = Comentarios

@@ -23,3 +23,49 @@ comms-console-announcement-title-centcom = Gestión regional
 comms-console-announcement-title-nukie = Operativos Nucleares del Sindicato
 comms-console-announcement-title-station-ai = Recluta IA
 comms-console-announcement-title-wizard = Mago
+
+comms-console-menu-broadcast-placeholder = Texto del comunicado...
+
+comms-console-menu-broadcast-bottom-placeholder = Línea inferior de la pantalla (máx. 32 caracteres)
+
+comms-console-change-alert-level-button = Cambiar estado
+
+comms-console-confirm-alert-level-button = Confirmar
+
+comms-console-call-button-label = Llamar
+
+comms-console-recall-button-label = Retirar llamada
+
+comms-console-shuttle-status-label = Hora de llegada
+
+comms-console-shuttle-controls-header = CONTROLES DEL TRANSBORDADOR DE EMERGENCIA
+
+comms-console-alert-current-level-header = Nivel de alerta
+
+comms-console-station-announcements-header = Anuncios de la estación
+
+comms-console-station-broadcast-header = Comunicado de la estación
+
+comms-console-announce-tab-title = Radio
+
+comms-console-broadcast-tab-title = Pantalla
+
+comms-console-char-limit = {$count}/{$max}
+
+comms-console-message-cannot-send = Comunicaciones desactivadas temporalmente
+
+comms-console-level-Green-flavour-label = El trabajo debe continuar con normalidad
+
+comms-console-level-Blue-flavour-label = Registrar actividad sospechosa con el formulario NT-4772-b
+
+comms-console-level-Violet-flavour-label = Mantener la distancia social
+
+comms-console-level-Yellow-flavour-label = Prepárate para contener tu respiración
+
+comms-console-level-Red-flavour-label = Permanece alerta
+
+comms-console-level-Gamma-flavour-label = Se recomienda extrema precaución
+
+comms-console-level-Delta-flavour-label = Buena suerte
+
+comms-console-level-Epsilon-flavour-label = Estás despedido

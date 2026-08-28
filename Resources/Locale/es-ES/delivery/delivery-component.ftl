@@ -22,3 +22,9 @@ delivery-priority-examine = [color=orange]PRIORITY¡[/color]! Te queda [color=or
 delivery-priority-expired-examine = [color=orange]PRIORITY! [/color]. Parece que se te ha acabado el tiempo.
 delivery-fragile-examine = [color=red]CAUTION, ¡FRÁGIL! [/color]. Llévalo seguro para recibir una prima.
 delivery-fragile-broken-examine = [color=red]BEWARE DE FRÁGIL! [/color]. Parece que algo ya se ha roto allí...
+
+delivery-priority-delivered-examine = Esto es un [color=orange]{$type} prioritario[/color]. Se entregó a tiempo.
+
+delivery-bomb-examine = Esto es una [color=purple]bomba {$type}[/color]. Oh, no.
+
+delivery-bomb-primed-examine = Esto es una [color=purple]bomba {$type}[/color]. Leer esto es una mala forma de aprovechar tu tiempo.

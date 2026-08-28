@@ -38,3 +38,5 @@ rcd-component-lighting = Iluminación
 rcd-component-deconstruct = Desmantelamiento
 rcd-component-floor-steel = piso de acero
 rcd-component-plating = Recubrimiento del casco
+
+rcd-component-cannot-build-identical-entity = ¡Eso ya existe!

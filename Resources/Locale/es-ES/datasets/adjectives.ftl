@@ -394,3 +394,55 @@ adjectives-dataset-393 = abundante
 adjectives-dataset-394 = numeroso
 adjectives-dataset-395 = considerable
 adjectives-dataset-396 = capitalista
+
+adjectives-dataset-397 = veloz
+
+adjectives-dataset-398 = vivaz
+
+adjectives-dataset-399 = voraz
+
+adjectives-dataset-400 = abominable
+
+adjectives-dataset-401 = devorador
+
+adjectives-dataset-402 = astuto
+
+adjectives-dataset-403 = distante
+
+adjectives-dataset-404 = lento
+
+adjectives-dataset-405 = sabio
+
+adjectives-dataset-406 = noble
+
+adjectives-dataset-407 = sigiloso
+
+adjectives-dataset-408 = cobarde
+
+adjectives-dataset-409 = lloriqueante
+
+adjectives-dataset-410 = retorcido
+
+adjectives-dataset-411 = correteante
+
+adjectives-dataset-412 = miserable
+
+adjectives-dataset-413 = reptante
+
+adjectives-dataset-414 = astuto
+
+adjectives-dataset-415 = reticulado
+
+adjectives-dataset-416 = mordedor
+
+adjectives-dataset-417 = gigantesco
+
+adjectives-dataset-418 = sospechoso
+
+adjectives-dataset-419 = sospechoso
+
+adjectives-dataset-420 = ardiente
+
+adjectives-dataset-421 = cascarrabias
+
+adjectives-dataset-422 = regordete

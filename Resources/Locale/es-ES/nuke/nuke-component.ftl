@@ -41,3 +41,5 @@ nuke-codes-fax-paper-name = Códigos de autenticación nuclear
 nuke-slot-component-slot-name-disk = Disco
 nuke-examine-armed = Oye, ¿por qué esto [color=red]red light[/color] parpadeando?
 nuke-examine-exploding = Sí... Parece que ya es demasiado tarde, amigo.
+
+nuke-disk-component-microwave = El disco brilla un poco, ¿pero parece que no está dañado?

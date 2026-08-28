@@ -22,3 +22,11 @@ tool-quality-rolling-name = Balanceo
 tool-quality-rolling-tool-name = Rodillo
 tool-quality-digging-name = Excavación
 tool-quality-digging-tool-name = pala
+
+tool-quality-shearing-name = Esquilado
+
+tool-quality-shearing-tool-name = cortadores de alambre
+
+tool-quality-brushing-name = Brujas
+
+tool-quality-brushing-tool-name = Cepillo de alambre

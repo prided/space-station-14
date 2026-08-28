@@ -146,3 +146,5 @@ seeds-coffee-arabica-name = Café arábica
 seeds-coffee-arabica-display-name = Arbusto de café arábica
 seeds-coffee-robust-name = Coffee Robust
 seeds-coffee-robust-display-name = Arbusto de café robusta
+
+seeds-bloonion-name = bloonión

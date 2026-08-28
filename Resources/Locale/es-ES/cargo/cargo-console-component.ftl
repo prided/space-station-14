@@ -45,3 +45,89 @@ cargo-shuttle-console-station-unknown = Desconocido
 cargo-shuttle-console-shuttle-not-found = No encontrado
 cargo-no-shuttle = ¡Transbordador de carga no encontrado!
 cargo-shuttle-console-organics = Formas de vida orgánica descubiertas en el transbordador
+
+cargo-console-menu-flavor-left = ¡Pide aún más cajas de pizza de lo habitual!
+
+cargo-console-menu-flavor-right = v2.1
+
+cargo-console-menu-account-name-format = [bold][color={$color}]{$name}[/color][/bold] [font="Monospace"]\[{$code}\][/font]
+
+cargo-console-menu-order-capacity-number = {$count}/{$capacity}
+
+cargo-console-menu-order-row-title = {$productName} (x{$orderAmount} por {$orderPrice}$)
+
+cargo-console-menu-order-row-product-description = Razón: {$orderReason}
+
+cargo-console-menu-order-row-button-approve = Aprobar
+
+cargo-console-menu-order-row-button-cancel = Cancelar
+
+cargo-console-menu-order-row-alerts-reason-absent = La razón no se especifica
+
+cargo-console-menu-order-row-alerts-requester-unknown = Desconocido
+
+cargo-console-menu-tab-title-orders = Pedidos
+
+cargo-console-menu-tab-title-funds = Transferencias
+
+cargo-console-menu-account-action-transfer-limit = [bold]Límite de transferencia:[/bold] ${$limit}
+
+cargo-console-menu-account-action-transfer-limit-unlimited-notifier = [color=gold](Ilimitado)[/color]
+
+cargo-console-menu-account-action-select = [bold]Acción de la cuenta:[/bold]
+
+cargo-console-menu-account-action-amount = [bold]Cantidad:[/bold] $
+
+cargo-console-menu-account-action-button = Transferir
+
+cargo-console-menu-toggle-account-lock-button = Alternar límite de transferencia
+
+cargo-console-menu-account-action-option-withdraw = Retirar efectivo
+
+cargo-console-menu-account-action-option-transfer = Transferir fondos a {$code}
+
+cargo-console-fund-withdraw-broadcast = [bold]{$name} retiró {$amount} spesos de {$name1} \[{$code1}\]
+
+cargo-console-fund-transfer-broadcast = [bold]{$name} transfirió {$amount} spesos de {$name1} \[{$code1}\] a {$name2} \[{$code2}\][/bold]
+
+cargo-console-fund-transfer-user-unknown = Desconocido
+
+cargo-console-paper-reason-default = Ninguno
+
+cargo-console-paper-approver-default = Desconocido
+
+cargo-funding-alloc-console-menu-title = Consola de asignación de fondos
+
+cargo-funding-alloc-console-label-account = [bold]Cuenta[/bold]
+
+cargo-funding-alloc-console-label-code = [bold] Código [/bold]
+
+cargo-funding-alloc-console-label-balance = [bold] Saldo [/bold]
+
+cargo-funding-alloc-console-label-cut = [bold] Distribución de ingresos (%) [/bold]
+
+cargo-funding-alloc-console-label-primary-cut = Parte de los fondos de Carga procedentes de fuentes que no son cajas de seguridad (%):
+
+cargo-funding-alloc-console-label-lockbox-cut = Parte de los fondos de Carga procedentes de ventas de cajas de seguridad (%):
+
+cargo-funding-alloc-console-label-help-non-adjustible = Carga recibe el {$percent}% de las ganancias por ventas que no son de cajas de seguridad. El resto se divide como se indica a continuación:
+
+cargo-funding-alloc-console-label-help-adjustible = Los fondos restantes de fuentes que no son cajas de seguridad se distribuyen como se indica a continuación:
+
+cargo-funding-alloc-console-button-save = Guardar cambios
+
+cargo-funding-alloc-console-label-save-fail = [bold]¡Distribuciones de ingresos no válidas![/bold] [color=red]({$pos ->
+    [1] +
+    *[-1] -
+}{$val}%)[/color]
+
+cargo-acquisition-slip-body = [head=3]Detalle del activo[/head]
+    {"[bold]Producto:[/bold]"} {$product}
+    {"[bold]Descripción:[/bold]"} {$description}
+    {"[bold]Costo unitario:[/bold"}] ${$unit}
+    {"[bold]Cantidad:[/bold]"} {$amount}
+    {"[bold]Costo:[/bold]"} ${$cost}
+
+    {"[head=3]Detalle de la compra[/head]"}
+    {"[bold]Solicitante:[/bold]"} {$orderer}
+    {"[bold]Motivo:[/bold]"} {$reason}

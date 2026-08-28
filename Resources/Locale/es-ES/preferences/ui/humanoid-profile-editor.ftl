@@ -58,3 +58,33 @@ trait-category-quirks = Peculiaridades
 humanoid-profile-editor-height-label = Altura: { $height } cm
 humanoid-profile-editor-width-label = Peso: { $weight } kg
 humanoid-profile-editor-slider-reset = Restablecer
+
+humanoid-profile-editor-randomize = Aleatorizar
+
+humanoid-profile-editor-randomize-unlocked-button = Aleatorizar desbloqueados
+
+humanoid-profile-editor-randomize-name-button = Nombre
+
+humanoid-profile-editor-randomize-species-button = Especie
+
+humanoid-profile-editor-randomize-age-button = Edad
+
+humanoid-profile-editor-randomize-sex-button = Sexo
+
+humanoid-profile-editor-randomize-skin-button = Color de la piel
+
+humanoid-profile-editor-randomize-eye-button = Color de ojos
+
+humanoid-profile-editor-randomize-markings-button = Rasgos de apariencia
+
+humanoid-profile-editor-voice-label = Voz:
+
+humanoid-profile-editor-randomizer-lock-tooltip = Impide que el valor se elija al azar
+
+humanoid-profile-editor-voice-masculine = Masculina
+
+humanoid-profile-editor-voice-feminine = Femenina
+
+humanoid-profile-editor-voice-neutral = Neutral
+
+humanoid-profile-editor-voice-none = Voz sin nombre

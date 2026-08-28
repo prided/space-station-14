@@ -8,3 +8,5 @@ door-remote-switch-state-toggle-bolts = Configuras el mando para cambiar de cerr
 door-remote-switch-state-toggle-emergency-access = Configuras el mando para cambiar el acceso de emergencia
 door-remote-no-power = La puerta está desenergizada
 door-remote-denied = Acceso denegado
+
+door-remote-toggle-eletrify-text = Alternar sobrecarga

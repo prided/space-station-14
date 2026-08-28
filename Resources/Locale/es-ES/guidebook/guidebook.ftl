@@ -6,3 +6,5 @@ guidebook-parser-error = Error de analizador
 guidebook-error-message = Error
 guidebook-monkey-unspin = Mono Flip
 guidebook-monkey-disco = Mono Disco
+
+guidebook-toc-header = Cuadro de contenidos

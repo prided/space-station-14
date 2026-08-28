@@ -31,3 +31,17 @@ lathe-menu-no-materials-message = Materiales no subidos
 lathe-menu-fabricating-message = Producido...
 lathe-menu-materials-title = Materiales
 lathe-menu-queue-title = Cola de producción
+
+lathe-menu-silo-linked-message = Silo vinculado
+
+lathe-menu-delete-fabricating-tooltip = Cancelar imprimir el artículo actual.
+
+lathe-menu-delete-item-tooltip = Cancelar imprimir este lote.
+
+lathe-menu-move-up-tooltip = Mueva este lote adelante en la cola.
+
+lathe-menu-move-down-tooltip = Mueva este lote en la cola.
+
+lathe-menu-item-single = {$index}. {$name}
+
+lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})

@@ -166,3 +166,7 @@ reagent-desc-warfarin = Se utiliza ampliamente como anticoagulante. Complica la 
 
 reagent-name-arcryox = Acrioxarina
 reagent-desc-arcryox = Un químico criogénico azul fantasmal que puede curar heridas graves incluso en muertos. Sin embargo, tiene dificultades para estabilizar a los pacientes.
+
+reagent-name-heparin = heparina
+
+reagent-desc-heparin = Comúnmente utilizado como un medicamento anticoagulante. Causa que la sangre tenga dificultad para formar coágulos. Puede causar sangrado interno cuando está sobredosis.

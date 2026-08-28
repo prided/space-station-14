@@ -8,3 +8,7 @@ admin-player-actions-window-shuttle = Llamar/cancelar transbordador
 admin-player-actions-window-admin-logs = Registros de administración
 admin-player-actions-window-admin-notes = Notas de administración
 admin-player-actions-window-admin-fax = Fax de administración
+
+admin-player-actions-window-event-log = Registro de eventos
+
+admin-player-actions-window-admin-chat = Chat de administración

@@ -44,3 +44,49 @@ names-wizard-last-dataset-43 = Blanco
 names-wizard-last-dataset-44 = Wise
 names-wizard-last-dataset-45 = Bocio
 names-wizard-last-dataset-46 = Im Sagoz
+
+names-wizard-last-dataset-47 = el Emperador
+
+names-wizard-last-dataset-48 = el Resplandeciente
+
+names-wizard-last-dataset-49 = el Gris
+
+names-wizard-last-dataset-50 = el Grande
+
+names-wizard-last-dataset-51 = el curador
+
+names-wizard-last-dataset-52 = el Lich
+
+names-wizard-last-dataset-53 = el Mago
+
+names-wizard-last-dataset-54 = el Poderoso
+
+names-wizard-last-dataset-55 = el Cuervo
+
+names-wizard-last-dataset-56 = el Rojo
+
+names-wizard-last-dataset-57 = el Arrepentido
+
+names-wizard-last-dataset-58 = el Furioso
+
+names-wizard-last-dataset-59 = el Resplandeciente
+
+names-wizard-last-dataset-60 = el Sorcelator
+
+names-wizard-last-dataset-61 = el Rey Espiral
+
+names-wizard-last-dataset-62 = el Interminable
+
+names-wizard-last-dataset-63 = el Imparable
+
+names-wizard-last-dataset-64 = el Lloroso
+
+names-wizard-last-dataset-65 = el Blanco
+
+names-wizard-last-dataset-66 = el Sabio
+
+names-wizard-last-dataset-67 = a quien
+
+names-wizard-last-dataset-68 = Xobeh
+
+names-wizard-last-dataset-69 = Ym Sagoz

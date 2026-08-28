@@ -26,3 +26,7 @@ reagent-name-catessence = Meowferment
 reagent-desc-catessence = Una enzima cancerígena capaz de descomponer las proteínas de las cuerdas vocales en la mayoría de los animales. NO SE RECOMIENDA MEZCLAR. No quieres un cathop, ¿verdad?
 reagent-name-canidessence = Gavenzyme
 reagent-desc-canidessence = Una enzima cancerígena capaz de descomponer las proteínas de las cuerdas vocales de la mayoría de los animales. NO SE RECOMIENDA MEZCLAR. No quieres un perro, ¿verdad?
+
+reagent-name-brass = latón
+
+reagent-desc-brass = Huele a relojería.

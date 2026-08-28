@@ -11,3 +11,13 @@ admin-player-actions-player-panel = Panel del jugador
 admin-player-actions-clone = Clonar
 admin-player-actions-follow = Seguir
 admin-player-actions-confirm = ¿Estás seguro?
+
+admin-player-actions-logs = Registros de jugadores
+
+admin-player-actions-respawn-message = Devuelve al jugador a la sala de espera para que pueda reaparecer como un personaje nuevo cuando quiera.
+
+admin-player-actions-spawn-message = Genera una copia nueva de este personaje y transfiere de inmediato su mente a ella.
+
+admin-player-actions-clone-message = Genera una copia de este personaje sin transferir su mente.
+
+admin-player-actions-check-afk = Compruebe AFK

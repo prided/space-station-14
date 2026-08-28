@@ -90,3 +90,11 @@ anomaly-behavior-inconstancy = [color=crimson]Impermanence ha sido detectado. Co
 anomaly-behavior-fast = [color=crimson]La frecuencia de las pulsaciones aumentó considerablemente.[/color]
 anomaly-behavior-strenght = [color=crimson]La potencia de las pulsaciones aumentó considerablemente.[/color]
 anomaly-behavior-moving = [color=crimson]Coordinate inestabilidad detected.[/color]
+
+anomaly-scanner-doafter-examine = { CAPITALIZE(SUBJECT($user)) } {CONJUGATE-BE($user)} [color=plum]scanning anomaly[/color].
+
+anomaly-sync-disconnect-verb-text = Adjuntar anomalía
+
+anomaly-sync-disconnect-verb-message = Desconecta la anomalía vinculada de {THE($machine)}.
+
+anomaly-secret-admin = [color=red](ERROR)[/color]

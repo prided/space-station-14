@@ -29,3 +29,5 @@ gravity-generator-window-power-label = { $draw } / { $max } W
 
 gravity-generator-window-eta-none = N/A
 gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
+
+gravity-generator-unanchoring-failed = No se puede desanclar un generador de gravedad activo.

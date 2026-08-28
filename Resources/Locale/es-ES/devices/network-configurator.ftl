@@ -51,3 +51,17 @@ network-configurator-examine-switch-modes = Pulsa { $key } para cambiar el modo
 network-configurator-item-status-label =
     Modo: { $mode }
     Alternar: { $keybinding }
+
+network-configurator-text-set = Instalación
+
+network-configurator-text-add = Añadir
+
+network-configurator-text-clear = Borrar
+
+network-configurator-text-copy = Copiar
+
+network-configurator-text-show = Mostrar
+
+cmd-clearnetworklinkoverlays-desc = Limpiar todas las superposiciones de enlace de red.
+
+cmd-clearnetworklinkoverlays-help = Uso: clearnetworklinkoverlays

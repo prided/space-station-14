@@ -192,3 +192,103 @@ reagent-name-rubberneck = Cuello de goma
 reagent-desc-rubberneck = Una bebida popular entre quienes siguen una dieta completamente sintética.
 reagent-name-zombiecocktail = Zombis
 reagent-desc-zombiecocktail = Se te mete en la cabeza. En tu cabeza.
+
+reagent-name-alien-brain-hemorrhage = Hemorragia cerebral extraterrestre
+
+reagent-desc-alien-brain-hemorrhage = Tal vez quieras que lo revisen en Med.
+
+reagent-name-bronx = Bronx
+
+reagent-desc-bronx = El primo con sabor a naranja del Manhattan y el Martini.
+
+reagent-name-crush-depth = profundidad de aplastamiento
+
+reagent-desc-crush-depth = Una bebida estigia que evoca la zona abisopelágica. Oscura y fría, recuerda que la emoción más antigua es el miedo y que el miedo más intenso es el miedo a lo desconocido.
+
+reagent-name-dark-and-stormy = oscuro y tormentoso
+
+reagent-desc-dark-and-stormy = Casi puedes oír el trueno.
+
+reagent-name-eggnog = ponche de huevo
+
+reagent-desc-eggnog = No es suficiente huevo.
+
+reagent-name-electric-shark = Tiburón eléctrico
+
+reagent-desc-electric-shark = Dato curioso sobre tiburones: ¡los selacios representan el 20 % del personal de Ingeniería de Space Station 16!
+
+reagent-name-jack-rose = Jack Rose
+
+reagent-desc-jack-rose = Excesivamente rojo.
+
+reagent-name-jungle-bird = ave de la jungla
+
+reagent-desc-jungle-bird = A pesar del nombre, no es excepcionalmente popular entre Voxes.
+
+reagent-name-kalimotxo = kalimotxo
+
+reagent-desc-kalimotxo = Cuba Libre de alta clase, para el alcohólico exigente.
+
+reagent-name-tortuga = Tortuga
+
+reagent-desc-tortuga = Perfecto para los piratas elegidos como conductores designados. ¡Arrr!
+
+reagent-name-monkey-business = negocios de monos
+
+reagent-desc-monkey-business = Tienes que preguntarte cómo se sienten los monos sobre esta bebida.
+
+reagent-name-radler = radler
+
+reagent-desc-radler = Un clásico sencillo pero esencial, directo de Alemania Espacial.
+
+reagent-name-vampiro = vampiro
+
+reagent-desc-vampiro = Popular en México y Transilvania.
+
+reagent-name-caipirinha = caipirinha
+
+reagent-desc-caipirinha = El especial de São Paulo, directamente del viejo Brasil.
+
+reagent-name-daiquiri = daiquiri
+
+reagent-desc-daiquiri = Un clásico cóctel de ron que sigue siendo popular incluso en las frías zonas del espacio.
+
+reagent-name-death-in-the-afternoon = muerte por la tarde
+
+reagent-desc-death-in-the-afternoon = Vierte una medida de absenta en una copa de champaña. Añade champaña helada hasta que adquiera la opalescencia lechosa adecuada. Bebe de tres a cinco lentamente. — Ernest Hemingway
+
+reagent-name-empress-75 = emperatriz 75
+
+reagent-desc-empress-75 = Una versión más refinada de la mimosa. Justo lo que María Antonieta podría haber bebido antes de la revolución.
+
+reagent-name-espresso-martini = espresso martini
+
+reagent-desc-espresso-martini = Para despertarte y luego relajarte. Adornado con granos de café y servido bien frío.
+
+reagent-name-mayojito = mayojito
+
+reagent-desc-mayojito = Una afrenta a Dios y al hombre. No lo bebas.
+
+reagent-name-mimeosa = mimeosa
+
+reagent-desc-mimeosa = Tiene un sabor cítrico tan ácido que no puedes describirlo.
+
+reagent-name-mimosa = mimosa
+
+reagent-desc-mimosa = Perfecto para un brunch animado con las chicas.
+
+reagent-name-moscow-mule = mula de Moscú
+
+reagent-desc-moscow-mule = Una bebida mezclada sorprendentemente fuerte y refrescante, servida en una emblemática taza de cobre.
+
+reagent-name-the-sun-also-rises = también sale el sol
+
+reagent-desc-the-sun-also-rises = Un cóctel fuerte de aspecto turbio. El favorito secreto de los autores atormentados.
+
+reagent-name-whiskey-sour = Whisky sour
+
+reagent-desc-whiskey-sour = ¿Cuál es el ingrediente secreto? Huevos. Son huevos.
+
+reagent-name-bacchus-blessing = bendición de Baco
+
+reagent-desc-bacchus-blessing = No creías que un líquido pudiera ser tan absolutamente repugnante. ¿Seguro que quieres esto...?

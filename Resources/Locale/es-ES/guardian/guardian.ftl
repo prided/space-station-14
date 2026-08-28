@@ -21,3 +21,11 @@ guardian-host-critical-warn = ¡TU AMO ESTÁ HERIDO!
 guardian-host-death-warn = DEJAS DE EXISTIR
 guardian-death-warn = ¡TU CUERPO ES ATRAVESADO POR UN DOLOR SUBATÓMICO AL DESINTEGRARSE!
 guardian-attack-host = No puedes atacar a tu amo.
+
+guardian-injector-empty-invalid-creation = El inyector se gasta.
+
+guardian-injector-empty-examine = [color=#ba1919]El inyector se gasta. [/color]
+
+guardian-deck-invalid-creation = ¡La baraja solo puede proporcionar un guardián a la vez!
+
+guardian-deck-used-examine = [color=#ba1919]La magia de la cubierta ha sido utilizada. [/color]

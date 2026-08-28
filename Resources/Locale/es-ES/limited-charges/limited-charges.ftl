@@ -11,3 +11,5 @@ limited-charges-recharging =
         [few] Quedan [color=yellow]{ $seconds }[/color] segundos antes de la nueva carga.
        *[other] Quedan [color=yellow]{ $seconds }[/color] segundos para una nueva carga.
     }
+
+limited-charges-no-charges = ¡No quedan cargos!

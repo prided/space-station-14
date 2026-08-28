@@ -11,3 +11,5 @@ ninja-research-steal-success =
        *[other] Nuevas tecnologías
     } de { $server }.
 ninja-criminal-records-hack-announcement = ERROR: [CENSURADO] error #*;" detectado en los antecedentes penales
+
+ninja-download-fail = El servidor no tiene datos de investigación...

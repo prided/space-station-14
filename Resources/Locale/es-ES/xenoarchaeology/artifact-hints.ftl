@@ -80,3 +80,27 @@ xenoarch-trigger-examine-timer = La superficie está cubierta de grabados y ara�
 
 xenoarch-effect-puddle = Forma un charco de los siguientes reactivos: { $reagent }
 xenoarch-effect-foam = Forma espuma a partir de los siguientes reactivos: { $reagent }
+
+xenoarch-trigger-tip-microwave = Radiación por microondas
+
+xenoarch-trigger-tip-money = Soborno
+
+xenoarch-trigger-tip-knowledge = Ingesta de conocimientos
+
+xenoarch-trigger-tip-carbs = Ingesta de carbohidratos
+
+xenoarch-trigger-tip-meat = Ingesta de proteínas
+
+xenoarch-trigger-tip-produce = Ingesta de productos saludables
+
+xenoarch-trigger-tip-stamp = Aprobación burocrática
+
+xenoarch-trigger-tip-shock = Descarga eléctrica
+
+xenoarch-trigger-tip-particle = Partículas que afectan a singularidades
+
+xenoarch-trigger-tip-anomparticle = Partículas que afectan a anomalías
+
+xenoarch-trigger-tip-stamina-damage = Agotamiento orgánico
+
+xenoarch-trigger-tip-laser = Impactos de fotones de alta intensidad

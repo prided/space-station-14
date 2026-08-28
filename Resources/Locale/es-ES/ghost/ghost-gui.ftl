@@ -39,3 +39,17 @@ ghost-return-to-body-title = Regreso al cuerpo
 ghost-return-to-body-text = ¡Estás siendo resucitado! ¿Volver a tu cuerpo?
 # Sunrise-edit
 ghost-gui-change-server = Otros servidores
+
+ghost-gui-toggle-lighting-manager-popup-half-bright = Medio derecho.
+
+ghost-target-window-warp-to-title = [bold]Salto rápido[/bold]
+
+ghost-target-window-warp-to-random-followed = Seguido aleatorio
+
+ghost-target-window-warp-to-random = Aleatorio
+
+ghost-target-window-warp-to-most-followed-tooltip = Saltar al jugador más seguido
+
+ghost-target-window-warp-to-random-followed-tooltip = Saltar a un jugador seguido al azar
+
+ghost-target-window-warp-to-random-tooltip = Saltar a un jugador al azar

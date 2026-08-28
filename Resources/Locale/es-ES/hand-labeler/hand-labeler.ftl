@@ -10,3 +10,11 @@ hand-labeler-has-label = La instalación tiene la etiqueta "{ $label }"
 # Verb text
 hand-labeler-remove-label-text = Eliminar etiqueta
 hand-labeler-add-label-text = Aplica una etiqueta
+
+hand-labeler-ui-reset-label-text = Restablecer
+
+hand-labeler-ui-clear-label-text = Borrar
+
+hand-labeler-examine-blank = El texto de la etiqueta está en blanco.
+
+hand-labeler-examine-label-text = El texto de la etiqueta es "{$label-text}".

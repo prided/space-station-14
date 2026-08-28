@@ -80,3 +80,19 @@ alerts-changeling-chemicals-name = Productos químicos
 alerts-changeling-chemicals-desc = Consume productos químicos para usar tus habilidades. Regénese despacio.
 alerts-changeling-biomass-name = Biomasa
 alerts-changeling-biomass-desc = Es tu salud. Si llega a 0, es [color=red]game over[/color]. Absorbe humanoides para restaurar parte de ella.
+
+alerts-knockdown-name = [color=yellow]Derribado[/color]
+
+alerts-knockdown-desc = ¡Estás [color=yellow]derribado[/color]! Algo te hizo resbalar o te empujó, lo que dificulta tu movimiento.
+
+alerts-rooted-name = Enraizado
+
+alerts-rooted-desc = Estás adherido al suelo. No puedes resbalar, pero absorbes los fluidos que hay debajo de ti.
+
+alerts-stealthy-name = Hurto
+
+alerts-stealthy-desc = Indica si estás hurtando. Haz clic para alternarlo.
+
+alerts-prying-name = Forzar
+
+alerts-prying-desc = Puedes forzar puertas de manera innata mediante la interacción alternativa.

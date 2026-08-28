@@ -11,3 +11,11 @@ changelog-button = Registro de cambios
 changelog-button-new-entries = Registro de cambios (!)
 changelog-tab-title-Changelog = Registro de cambios
 changelog-tab-title-Admin = Adminskoye
+
+changelog-tab-title-Maps = Mapas
+
+changelog-tab-title-Rules = Reglas
+
+cmd-changelog-desc = Abre el registro de cambios.
+
+cmd-changelog-help = Uso: changelog

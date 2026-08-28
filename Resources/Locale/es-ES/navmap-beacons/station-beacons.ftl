@@ -74,3 +74,35 @@ station-beacon-cryosleep = Criosueño
 station-beacon-escape-pod = Cápsula de escape
 station-beacon-vox = Baño Vox
 station-beacon-blueshield = Escudo azul
+
+station-beacon-solars-N = Solares N
+
+station-beacon-solars-NE = Solares NE
+
+station-beacon-solars-E = Solares E
+
+station-beacon-solars-SE = Solares SE
+
+station-beacon-solars-S = Solares S
+
+station-beacon-solars-SW = Solares SW
+
+station-beacon-solars-W = Solares W
+
+station-beacon-solars-NW = Solares NW
+
+station-beacon-escape-pod-N = Cápsula de escape N
+
+station-beacon-escape-pod-NE = Cápsula de escape NE
+
+station-beacon-escape-pod-E = Cápsula de escape E
+
+station-beacon-escape-pod-SE = Cápsula de escape SE
+
+station-beacon-escape-pod-S = Cápsula de escape S
+
+station-beacon-escape-pod-SW = Cápsula de escape SO
+
+station-beacon-escape-pod-W = Cápsula de escape O
+
+station-beacon-escape-pod-NW = Cápsula de escape NO
