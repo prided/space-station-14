@@ -10,6 +10,10 @@
 
   Sus alas proporcionan una mayor aceleración cuando no hay gravedad en la estación, pero no les permiten desplazarse sin equipo si quedan flotando en el espacio.
 
+<<<<<<< HEAD
   Reciben [color=#1e90ff]un 30 % menos de daño por frío[/color], pero [color=#ffa500]un 30 % más de daño por calor y se incendian con mayor facilidad[/color].
+=======
+  They take [color=#1e90ff]50% less Cold damage[/color] but [color=#ffa500]100% more Heat damage, and catch on fire more easily[/color].
+>>>>>>> 17c2f5f42e492e9c41dc97391bf1ba418678464c
 
 </Document>

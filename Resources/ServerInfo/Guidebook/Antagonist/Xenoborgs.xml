@@ -60,18 +60,27 @@
 
   [bold]Módulos exclusivos iniciales:[/bold]
   <Box>
+<<<<<<< HEAD
     <GuideEntityEmbed Entity="XenoborgModuleAccessBreaker" Caption="módulo de acceso forzado de Xenoborg"/>
     <GuideEntityEmbed Entity="XenoborgModuleFireExtinguisher" Caption="módulo extintor de Xenoborg"/>
+=======
+    <GuideEntityEmbed Entity="XenoborgModuleAccessBreaker" Caption="access breaker xenoborg module"/>
+>>>>>>> 17c2f5f42e492e9c41dc97391bf1ba418678464c
   </Box>
 
   [bold]El Xenoborg Ingeniero también comienza con módulos de ingeniería, como:[/bold]
   <Box>
+<<<<<<< HEAD
     <GuideEntityEmbed Entity="BorgModuleAdvancedTool" Caption="módulo avanzado de herramientas para cíborg"/>
     <GuideEntityEmbed Entity="BorgModuleConstruction" Caption="módulo de construcción para cíborg"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="BorgModuleRCD" Caption="módulo de ingeniería para cíborg"/>
     <GuideEntityEmbed Entity="BorgModuleCable" Caption="módulo de cable para cíborg"/>
+=======
+    <GuideEntityEmbed Entity="XenoborgModuleAdvancedTool" Caption="advanced tool cyborg module"/>
+    <GuideEntityEmbed Entity="XenoborgModuleConstruction" Caption="construction cyborg module"/>
+>>>>>>> 17c2f5f42e492e9c41dc97391bf1ba418678464c
   </Box>
 
   ### Xenoborg Pesado
